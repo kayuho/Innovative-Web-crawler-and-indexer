@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13457" OLDID="2440" TOPICS="BYPASS">
+<DATE> 7-APR-1987 06:13:29.53</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C T
+   f0323 reute
+u f BC-rss-ones   04-07 0050</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+Rss ones
+ (in order byr/slr/last trd/sales)
+ may 228.00 230.00 nil
+ jne 228.00 230.00 nil
+ jly 230.00 232.00 nil
+ aug 232.00 234.00 nil
+ sep 233.00 235.00 nil
+ jly/sep 232.00 234.00 nil
+ oct/dec 237.00 239.00 nil
+ jan/mch 242.00 244.00 nil
+ apl/jne 247.00 249.00 nil
+ sales nil
+ quarter nil
+ tone dull
+ 
+
+</TEXT>
+</REUTERS>

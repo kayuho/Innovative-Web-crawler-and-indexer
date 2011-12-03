@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13464" OLDID="2447" TOPICS="BYPASS">
+<DATE> 7-APR-1987 06:20:25.44</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C T
+   f0333 reute
+u f BC-kuala-lumpur-rubber-c   04-07 0045</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+Kuala lumpur rubber clsg -april 7
+ (in order byr/slr/last trd/sales)
+ may 194.50 196.50 nil
+ jne 195.50 197.50 nil
+ jly 196.00 198.00 nil
+ aug 196.50 198.50 nil
+ sep 196.50 198.50 nil
+ jly/sep 196.50 198.50 nil
+ oct/dec 201.50 203.50 nil
+ total nil
+ quarter nil
+ tone dull
+ 
+
+</TEXT>
+</REUTERS>

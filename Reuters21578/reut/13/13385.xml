@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13385" OLDID="2368" TOPICS="BYPASS">
+<DATE> 7-APR-1987 03:37:14.34</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   RM
+   f0125 reute
+u f BC-LONDON-LIFFE-STERLING   04-07 0063</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+LONDON LIFFE STERLING-DP 0835 - APR 7
+ MTH     LAST   HIGH     LOW   PR.SET
+ Jun     9077   9078    9077     9078
+ Sep      ---    ---     ---     9104
+ Dec      ---    ---     ---     9108
+ Mar      ---    ---     ---     9098
+ Jun      ---    ---     ---     9083
+ Sep      ---    ---     ---     9061
+ Dec      ---    ---     ---     9051
+ Mar      ---    ---     ---     9030
+ 
+
+</TEXT>
+</REUTERS>

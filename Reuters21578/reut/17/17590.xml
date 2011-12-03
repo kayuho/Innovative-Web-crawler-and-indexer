@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="17590" OLDID="5928" TOPICS="NO">
+<DATE> 1-JUN-1987 11:17:59.70</DATE>
+<TOPICS/>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   F
+   f1374 reute
+r f BC-NOVELL-&lt;NOVL.O&gt;-UNVEI   06-01 0108</UNKNOWN>
+<TEXT> 
+<TITLE>NOVELL &lt;NOVL.O&gt; UNVEILS NETWORKING PRODUCTS</TITLE>
+<DATELINE>    ATLANTA, Ga., June 1 - </DATELINE><BODY>Novell Inc said it introduced a
+series of new networking products that extend its NetWare local
+area network (LAN) communications.
+    One of the new products, an asynchronous bridge, connects
+multiple remote NetWare LANs to a local to a local NetWare LAN
+over telephone lines using high-speed modems, Novell said.
+    Novell also said it has introduced a new asynchronous
+gateway which provides NetWare LANS with access to resources on
+minicomputers from Digital Equipment Corp &lt;DEC&gt;, Data General
+&lt;DGN&gt;, Hewlett-Packard &lt;HWP&gt;, Prime Computer Inc &lt;PRM&gt; and
+Tandem Computers &lt;TDM&gt;.
+    Novell also said that its CXI Inc unit has introduced a
+series of new International Business Machines Corp &lt;IBM&gt;
+gateway products including a 40-session coaxial gateway
+software, a variety of LAN workstation gateway sofware and new
+software for PCOX gateways.
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14821" OLDID="3804" TOPICS="BYPASS">
+<DATE> 7-APR-1987 23:58:43.88</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   G
+   f0000 reute
+r f BC-BANGKOK-RICE-1---APRI   04-07 0111</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+BANGKOK RICE 1 - APRIL 8
+ Offered prices in U.S. Dlrs per tonne
+ FOB basis Bangkok
+                       ASSOCIATION    TRADER
+ Fragrant rice
+ 100 pct 1st class         unq         300
+ 100 pct 2nd class         unq         290
+ 100 pct 3rd class         unq         280
+ White rice
+ 100 pct 1st class         258         253
+ 100 pct 2nd class         228         223
+ 100 pct 3rd class         223         218
+   5 pct                   213         208
+  10 pct                   208         203
+  15 pct                   203         198
+  20 pct                   195         190
+  25 pct                   190         185
+  35 pct                   185         180
+ 
+
+</TEXT>
+</REUTERS>

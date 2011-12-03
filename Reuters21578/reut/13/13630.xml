@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13630" OLDID="2613" TOPICS="NO">
+<DATE> 7-APR-1987 08:26:40.98</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   MQ CQ
+   f0595 reute
+u f BC-nymex-pall-vol-oi   04-07 0057</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+NYMEX PALLADIUM VOL/OPEN INTEREST FOR APRIL 6
+         VOL OPEN     CHANGE
+ APL      0     1     off   2
+ JNE    210  4134     off  49
+ Jly    120     0     unch   
+ Sep     17  1631     up   14
+ Dec      1   981     off   6
+ MCH      0   119     off   1
+ JNE      0    29     off   1
+Total   348  6895     off  45
+                              
+ 
+
+</TEXT>
+</REUTERS>

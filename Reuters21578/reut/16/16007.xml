@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="16007" OLDID="5046" TOPICS="YES">
+<DATE> 9-APR-1987 17:07:18.35</DATE>
+<TOPICS><D>acq</D><D>crude</D><D>nat-gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   F
+   f2677 reute
+r f BC-NERCI-&lt;NER&gt;-UNIT-CLOS   04-09 0083</UNKNOWN>
+<TEXT> 
+<TITLE>NERCI &lt;NER&gt; UNIT CLOSES OIL/GAS ACQUISITION</TITLE>
+<DATELINE>    PORTLAND, Ore., April 9 - </DATELINE><BODY>Nerco Inc said its oil and gas
+unit closed the acquisition of a 47 pct working interest in the
+Broussard oil and gas field from &lt;Davis Oil Co&gt; for about 22.5
+mln dlrs in cash.
+    Nerco said it estimates the field's total proved developed
+and undeveloped reserves at 24 billion cubic feet, or
+equivalent, of natural gas, which more than doubles the
+company's previous reserves.
+    The field is located in southern Louisiana.
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

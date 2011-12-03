@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13643" OLDID="2626" TOPICS="BYPASS">
+<DATE> 7-APR-1987 08:33:23.41</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f0620 reute
+u f BC-CHGO-IMM-OPEN-INTERES   04-07 0058</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CHGO IMM OPEN INTEREST ISSUED 7-APR
+FOR PREVIOUS TRADING DAY
+      OPEN                    OPEN
+B-POUND                 C-DOLLAR
+JUN7  39244  UP  6004   JUN7 21427  UP   211
+SEP7   1596  UP   256   SEP7  4422  OFF   63
+DEC7    269  OFF    4   DEC7  1386  UP    59
+MAR8     17  UNCH       MAR8   207  UNCH
+JUN8                    JUN8    55  UNCH
+       OPEN                     OPEN
+D-MARK                   S-FRANC
+JUN7  39723  OFF  649    JUN7  29562  UP   786
+SEP7   1179  UP     9    SEP7    729  UP     1
+DEC7     80  UP    17    DEC7     35  UNCH
+MAR8                     MAR8      3  UNCH
+JUN8                     JUN8
+       OPEN
+J-YEN
+JUN7  48205  UP  2158
+SEP7    515  UP    31
+DEC7     80  UP    26
+MAR8     11  UNCH
+JUN8      1  UP     1
+F-FRANC                     S AN P 500 (IOM)
+JUN7    281  UNCH        JUN7  99315  UP  1104
+SEP7                     SEP7   2169  UP   159
+DEC7      1  UNCH        DEC7   1743  UP    12
+MAR8                     MAR8     11  UP     4
+       OPEN                     OPEN
+90-DAY T-BILLS           EURO DLRS (CONT)
+JUN7  27676  OFF 779     DEC7  29335  UP  989
+SEP7   6465  OFF  17     MAR8  16561  UP   19
+DEC7   1884  UP    8     JUN8  11439  UP   47
+MAR8    759  UP    7     SEP8   9183  UP   63
+JUN8    340  UP    5     DEC8   6594  UP  197
+SEP8    131  UP    1     MAR9   2979  UP  124
+DEC8     21  UNCH        DOMESTIC CD
+EURO DLRS                JUN7     36  UNCH
+JUN7  14497  UP  220     SEP7     10  UNCH
+SEP7  53916  UP  797     DEC7
+OCT7
+ 
+
+</TEXT>
+</REUTERS>

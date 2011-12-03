@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13574" OLDID="2557" TOPICS="BYPASS">
+<DATE> 7-APR-1987 07:49:48.28</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C T
+   f0496 reute
+u f BC-LONDON-COCOA-OPEN-POS   04-07 0044</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+LONDON COCOA OPEN POSITION (REVISED) - APR 6
+ May    27,836
+ Jul    20,669
+ Sep    17,533
+ Dec    25,023
+ Mar    13,143
+ May     5,503
+ Jul     1,217
+ TOTAL 110,924
+ Note: The figures represent the total clients long and short
+positions plus the net house positions.
+ 
+
+</TEXT>
+</REUTERS>

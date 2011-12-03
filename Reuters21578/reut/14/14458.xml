@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14458" OLDID="3441" TOPICS="BYPASS">
+<DATE> 7-APR-1987 15:17:13.18</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ GQ
+   f2196 reute
+b f BC-CBT-SETTLEMENTS--7-AP   04-07 0050</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CBT SETTLEMENTS  7-APR
+       WHEAT                   CORN
+ MAY 288 3/4 UP  2 1/2  MAY 159 1/2 UP  1 1/4
+ JUL 273 1/4 UP    1/2  JUL 163 1/4 UP  1 1/2
+ SEP 273 1/4 UP    1/4  SEP 168 1/2 UP  2 1/4
+ DEC 278 3/4 UP    3/4  DEC 177 3/4 UP  3
+ MAR 278     UP    3/4  MAR 184 3/4 UP  3
+ MAY 270 3/4 UP    3/4
+       OATS                   SOYBEANS
+ MAY7148 1/2 OFF  1 1/2  MAY7504 1/2 UP   4 3/4
+ JUL7138 3/4 UP     1/4  JUL7506 3/4 UP   6 1/2
+ SEP7129     UP     3/4  AUG7506 1/2 UP    7
+ DEC7134     UNCH        SEP7502 1/4 UP   8 1/4
+ MAR8136 3/4 UNCH        NOV7504 3/4 UP   8 3/4
+                         JAN8511 3/4 UP   9 1/4
+                         MAR8519 1/4 UP   9 1/4
+                         MAY8522     UP    8
+                         JUL8523     UP    9
+        OIL                  MEAL
+ MAY7 1561  UP  18   MAY7 1466  UP  13
+ JUL7 1595  UP  17   JUL7 1467  UP  16
+ AUG7 1611  UP  16   AUG7 1467  UP  17
+ SEP7 1630  UP  19   SEP7 1473  UP  22
+ OCT7 1641  UP  16   OCT7 1476  UP  25
+ DEC7 1671  UP  17   DEC7 1486  UP  24
+ JAN8 1673  UP  18   JAN8 1497  UP  30
+ MAR8 1695  UP  15   MAR8 1507  UP  27
+ MAY8       UNCH     MAY8       UNCH
+ JUL8       UNCH     JUL8       UNCH
+ 
+
+</TEXT>
+</REUTERS>

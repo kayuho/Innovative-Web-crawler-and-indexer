@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14137" OLDID="3120" TOPICS="BYPASS">
+<DATE> 7-APR-1987 11:37:52.13</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   TQ CQ
+   f1323 reute
+u f BC-ny-sugar-vol-oi   04-07 0063</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+ N.Y. SUGAR 11 VOL/OPEN INTEREST-APRIL 6
+        VOL     OPEN      CHANGE
+ MAY    4618   33737     up    84
+ JLY    1415   19851     up    34
+ SEP       6     130     up     2
+ OCT    1334   25230     up    18
+ JAN       2      55     up     2
+ Mch     343   11256     up   113
+ MAY       0      58     unch    
+ JLY      51     826     up    45
+Total  7,769  91,143     up   298
+ 
+
+</TEXT>
+</REUTERS>

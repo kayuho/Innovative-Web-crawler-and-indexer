@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14620" OLDID="3604" TOPICS="BYPASS">
+<DATE> 7-APR-1987 16:28:30.50</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f2396 reute
+u f BC-CBT-GINNIE-MAE-CDR-CL   04-07 0152</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CBT GINNIE MAE CDR CLSG 7-APR
+     OPEN                  HIGH      LOW
+ JUN7    --                105       105
+ SEP7    --                    --        --
+ DEC7    --                    --        --
+ MAR8    --                    --        --
+ SEP8    --                    --        --
+ DEC8    --                    --        --
+ MAR9    --                    --        --
+ JUN9    --                    --        --
+ SEP9    --                    --        --
+     CLOSE                 SETT      PSETT
+ JUN7     --                105       05 26/32
+ SEP7     --                    --        --
+ DEC7     --                    --        --
+ MAR8     --                    --        --
+ SEP8     --                    --        --
+ DEC8     --                    --        --
+ MAR9     --                    --        --
+ JUN9     --                    --        --
+ SEP9     --                    --        --
+ 
+
+</TEXT>
+</REUTERS>

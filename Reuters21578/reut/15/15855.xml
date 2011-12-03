@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="15855" OLDID="5210" TOPICS="YES">
+<DATE> 9-APR-1987 15:09:06.76</DATE>
+<TOPICS><D>orange</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C T
+   f2193 reute
+b f BC-oj-yield   04-09 0077</UNKNOWN>
+<TEXT> 
+<TITLE>USDA ORANGE JUICE YIELD ESTIMATE</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>The U.S. Agriculture Department
+projected an average yield of 1.50 gallons of frozen
+concentrated orange juice per box (42.0 degree brix equivalent)
+from Florida's 1986/87 crop.
+    That compares with 1.47 gallons per box previously and 1.38
+gallons per box from the 1985/86 crop.
+    The crop reporting board said the estimates for the 1986/87
+season are based on maturity and yields tests as of April 1.
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

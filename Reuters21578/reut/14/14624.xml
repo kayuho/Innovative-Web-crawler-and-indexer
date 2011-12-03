@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14624" OLDID="3608" TOPICS="BYPASS">
+<DATE> 7-APR-1987 16:29:18.72</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   RM CQ
+   f2401 reute
+u f BC-CBT-TREASURY-BONDS-CL   04-07 0185</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CBT TREASURY BONDS CLSG 7-APR
+      OPEN                 HIGH      LOW
+ JUN7 97 26/32H 97 24/32L  98 4/32   97 7/32
+ SEP7 96 27/32H 96 25/32L  97 2/32   96 5/32
+ DEC7 95 24/32             96 2/32   95 5/32
+ MAR8 94 28/32             95 3/32   94 9/32
+ JUN8 93 16/32             93 16/32  93 13/32
+ SEP8 92 22/32             92 22/32  92 19/32
+ DEC8     --               91 26/32  91 26/32
+ MAR9 91 15/32             91 15/32  91 2/32
+ JUN9     --               90 12/32  90 12/32
+ SEP9     --               89 24/32  89 24/32
+ DEC9     --               89 5/32   89 5/32
+      CLOSE                SETT      PSETT
+ JUN7 97 9/32 H 97 7/32 L  97 8/32   98 4/32
+ SEP7 96 7/32 H 96 5/32 L  96 7/32   97 4/32
+ DEC7 95 5/32 L 95 7/32 H  95 7/32   96 5/32
+ MAR8 94 12/32H 94 9/32 L  94 9/32   95 7/32
+ JUN8 93 16/32H 93 13/32L  93 13/32  94 11/32
+ SEP8 92 22/32H 92 19/32L  92 19/32  93 16/32
+ DEC8     --               91 26/32  92 22/32
+ MAR9 91 5/32 H 91 2/32 L  91 2/32   91 30/32
+ JUN9     --               90 12/32  91 8/32
+ SEP9     --               89 24/32  90 20/32
+ DEC9     --               89 5/32   90 1/32
+ 
+
+</TEXT>
+</REUTERS>

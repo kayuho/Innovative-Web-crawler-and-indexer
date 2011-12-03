@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13792" OLDID="2775" TOPICS="BYPASS">
+<DATE> 7-APR-1987 09:54:47.32</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f0848 reute
+u f BC-IOM-OPTIONS-OPEN-INTE   04-07 0076</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+IOM OPTIONS OPEN INTEREST FOR April  6
+           OPEN     CHANGE    VOLUME
+SP 500    46538   up 1126   9480 
+euro dl   153346  up 1201   8296 
+t-bill    875    unch     16  
+b pound   39870  dn 2440   1910 
+d mark    108598 dn 3179   4670 
+j yen     50493  dn 6031   4531 
+s franc   43096  dn 1475  2322 
+c dlr     6682   dn  167  42  
+ttl ops   533856 dn  9557  38502
+grand ttl 1269160 up 3372   260613
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

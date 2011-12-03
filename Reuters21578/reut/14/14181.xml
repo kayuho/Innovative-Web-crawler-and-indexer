@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14181" OLDID="3164" TOPICS="BYPASS">
+<DATE> 7-APR-1987 11:47:56.34</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   TQ CQ
+   f1379 reute
+u f BC-ny-cocoa-vol-oi   04-07 0055</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+N.Y. COCOA VOL/OPEN INTEREST FOR APRIL 6
+       VOL       OPEN   CHANGE
+ MAY    820      4664   off  462
+ JLY   1081      8581   up   350
+ Sep     39      3435   up     3
+ DEC     63      4420   off   34
+ Mch      0      1124   unch    
+ May      0       209   unch    
+total  2003     22433   off  143
+                             
+ 
+
+</TEXT>
+</REUTERS>

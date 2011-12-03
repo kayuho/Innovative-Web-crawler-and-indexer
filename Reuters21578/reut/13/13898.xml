@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13898" OLDID="2881" TOPICS="BYPASS">
+<DATE> 7-APR-1987 10:26:59.30</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ GQ
+   f0999 reute
+u f BC-CME-FROZEN-PORK-BELLY   04-07 0047</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CME FROZEN PORK BELLY OPENING TREND 7-APR
+         OPEN      P SETT
+ MAY7  6625        6640
+ JUL7  6485        6485
+ AUG7  6170        6160
+ FEB8  5590        5560
+ MAR8  5510B       5490
+ MAY8    --        5300
+ JUL8    --          --
+ AUG8    --          --
+ FEB9    --          --
+ 
+
+</TEXT>
+</REUTERS>

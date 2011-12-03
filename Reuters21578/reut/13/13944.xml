@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13944" OLDID="2927" TOPICS="BYPASS">
+<DATE> 7-APR-1987 10:40:15.91</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   FQ
+   f1054 reute
+u f BC-chgo-commodity-trends   04-07 0111</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CHICAGO COMMODITY TRENDS- OPENING April 7
+         cts/bu                        cts/lb
+ wheat    up 1            live cattle  up 0.15
+ corn     up 1-1/4        feeders      dn 0.10
+ soybean  up 1            live hogs    up 0.38
+ soyoil   up 0.06 cts/lb  pork bellies dn 0.20
+ soymeal  up 0.40 dlrs/ton
+  COMMODITY RESEARCH BUREAU INDEX - April 6
+ 210.57 up 0.81 vs 210.2 up 2.1 from year ago
+ imports 307.60 up 0.53 industries 225.73 up 1.17
+ grains  161.98 up 0.78 oilseeds 179.05 up 1.53
+ livestk 204.40 up 1.55 metals 339.69 up 2.66
+ misc   267.21 dn 0.76  energy 162.47 dn 1.04
+ int rate 104.82 up 0.27 currency 122.99 dn 0.02
+ Reuter commodity index 1542.8 up 6.7
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

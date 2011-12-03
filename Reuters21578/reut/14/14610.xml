@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14610" OLDID="3593" TOPICS="BYPASS">
+<DATE> 7-APR-1987 16:22:07.17</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   EQ
+   f2381 reute
+u f BC-TORONTO---STATISTICS   04-07 0055</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+TORONTO   STATISTICS /VOLUME
+
+
+INDUSTRIALS UP     388
+            DOWN   428
+            UNCH   275
+          VOLUME    28,915,064
+
+MINES       UP      88
+            DOWN    49
+            UNCH    30
+          VOLUME    7,276,519
+
+OILS        UP      41
+            DOWN    30
+            UNCH    31
+          VOLUME    3,554,964
+
+ 
+
+</TEXT>
+</REUTERS>

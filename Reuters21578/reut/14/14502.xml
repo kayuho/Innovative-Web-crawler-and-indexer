@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14502" OLDID="3485" TOPICS="BYPASS">
+<DATE> 7-APR-1987 15:40:48.09</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ LQ
+   f2251 reute
+u f BC-cme-est-sales   04-07 0115</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CME ESTIMATED SALES - APRIL 7
+      LIVE    FEEDER   LIVE   PORK
+      CATTLE  CATTLE   HOGS   BELLIES  LUMBER
+ APR    7325    542    2727
+ MAY            996            4645      1297
+ JUN    9885           5768
+ JLY                   2445    1347       485
+ AUG    3678    324     914     396
+ SEP             69                       179
+ OCT    1838    171     230
+ NOV             20                       130
+ DEC     766             89
+ JAN             11                         6
+ FEB     198             47     110
+ MCH              1               0        20
+ APR      17             24
+ MAY                              0
+ JUN                      1
+ TTL   23707   2134   12245    6498      2117
+   
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="15441" OLDID="5339" TOPICS="YES">
+<DATE> 9-APR-1987 07:38:18.81</DATE>
+<TOPICS><D>reserves</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+
+   RM
+   f0487 reute
+u f BC-BANK-OF-FRANCE-RETURN   04-09 0058</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+BANK OF FRANCE RETURN - APR 9
+ Week end Apr 2 (in mln francs)
+ Gold reserves 218,316 (unch)
+ Convertible Currency Reserves 119,518 (116,728)
+ Ecus 62,008 (62,020)
+ Special Operations (advances to
+     Exchanges stabilisation fund) nil (nil)
+ Special Drawing Rights 6,866 (unch)
+ Notes In Circulation 209,260 (207,517)
+ Foreign Liabilities 3,101 (3,082)
+ 
+
+</TEXT>
+</REUTERS>

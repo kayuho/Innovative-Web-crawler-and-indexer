@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13478" OLDID="2461" TOPICS="BYPASS">
+<DATE> 7-APR-1987 06:31:59.27</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   RM
+   f0359 reute
+u f BC-LONDON-ECU-SPOT/FORWA   04-07 0057</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+LONDON ECU SPOT/FORWARDS - APRIL 7
+    US        1.1408/13
+ 1 month      5.25/4.25
+ two          10.50/8.50
+ three        13.50/10.50
+ six          19.00/15.00
+ twelve       35.00/20.00
+    STG       1.4190/4205
+ 1 month      38.00/34.00
+ two          70.00/65.00
+ three        102.00/96.00
+ six          178.00/168.00
+ twelve       328.00/303.00
+ 
+
+</TEXT>
+</REUTERS>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14424" OLDID="3407" TOPICS="BYPASS">
+<DATE> 7-APR-1987 15:04:19.11</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f2157 reute
+u f BC-CHGO-IMM-D-MARK-CLSG   04-07 0064</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CHGO IMM D-MARK CLSG 7-APR
+      OPEN         HIGH  LOW
+ JUN7 5517L 5518H  5518  5495
+ SEP7 5551         5551  5535
+ DEC7 5596         5596  5577
+ MAR8  --           --    --
+ JUN8  --           --    --
+      CLOSE        SETT  PSETT
+ JUN7  5503H 5499L  5501  5504
+ SEP7  5538A        5538  5540
+ DEC7  5586         5577  5577
+ MAR8   --           --    --
+ JUN8   --           --    --
+ 
+
+</TEXT>
+</REUTERS>

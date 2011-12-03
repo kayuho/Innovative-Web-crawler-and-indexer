@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14466" OLDID="3449" TOPICS="BYPASS">
+<DATE> 7-APR-1987 15:19:27.13</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   MQ
+   f2206 reute
+r f BC-NYMEX-PLATINUM-CLSG-7   04-07 0096</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+NYMEX PLATINUM CLSG 7-APR
+         OPEN       HIGH   LOW     CLOSE
+ APR7 5670L 5680H    5700  4670   5660L   5680H
+ MAY7  --             --    --     --
+ JUN7  --             --    --     --
+ JUL7 5730L 5740H    5775  5700   5715L   5730H
+ OCT7 5785L 5790H    5805  5758    --
+ JAN8 5820B 5830A    5825  5815    --
+ APR8 5890           5890  5845    --
+ JUL8 5900B 5950A     --    --     --
+      SETT      P SETT
+ APR7   5671    5629
+ MAY7    --      --
+ JUN7    --     5663
+ JUL7   5722    5686
+ OCT7   5767    5728
+ JAN8   5812    5771
+ APR8   5862    5816
+ JUL8   5912    5866
+ 
+
+</TEXT>
+</REUTERS>

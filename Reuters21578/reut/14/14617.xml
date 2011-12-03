@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14617" OLDID="3601" TOPICS="BYPASS">
+<DATE> 7-APR-1987 16:27:07.95</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   FQ EQ
+   f2390 reute
+r f BC-NYSE-CLOSING-PRICES-1   04-07 0074</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+NYSE CLOSING PRICES 1
+
+ ALLIED SIG      47 3/8
+ ALCOA           43 3/4
+ AMR CORP        53 1/4
+ AMER BRAND      47 3/4
+ AMER CAN        49
+ AMER ELEC       27 3/4
+ ATT             23 3/4
+ BETH STL        11 1/4
+ BURL NOR        70 1/2
+ CAN-PACIF       19
+ CHRYSLER        57 1/2
+ COLUMB GAS      47 3/4
+ COMW ED         34 3/4
+ CON ED NY       43
+ CONS FRGT       35 1/4
+ CONS N-GAS      41 3/8
+ DET ED          17 1/4
+ DU PONT         119 1/4
+ EAST KODAK      78 3/8
+ EXXON           88 3/8
+ GEN ELEC        108
+ GEN MOTORS      82 1/4
+ GOODYEAR        59
+ HOUS IND        35
+ INCO            16 1/2
+ NAVISTAR        6 7/8
+ INTL PAPER      112 3/8
+ MANVILLE        2 5/8
+ NIAG MOHWK      16 1/2
+ NWA INC         64 3/4
+ MINN MIN        133 3/4
+ PAC G&amp;E CO      22
+ PAN AM CP       4 1/2
+ PANHAND PI      32
+ PHIL ELEC       21 3/8
+ PROCT GAM       95
+ PEOPLS EGY      22 1/2
+ PSEG            38 7/8
+99
+99
+ SEARS ROE       53 3/4
+ SOU CALIF       31
+99
+ CHEVRON CORP    59 1/2
+ TEXACO          33 5/8
+99
+ TW SERVICES     17 1/8
+ UNITED AIR      65 1/2
+ UNION CARB      29 5/8
+ UNION PAC       77 5/8
+ UNITED TEC      51 1/8
+ USX CORP        29 3/8
+ WEST ELEC       65 3/4
+ WOOLWORTH       52 1/8
+ 
+
+</TEXT>
+</REUTERS>

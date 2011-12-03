@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="216" OLDID="5759" TOPICS="YES">
+<DATE>26-FEB-1987 19:26:09.34</DATE>
+<TOPICS><D>money-supply</D></TOPICS>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   RM A
+   f0402 reute
+u f BC--FEDERAL-RESERVE-WEEK   02-26 0087</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+FEDERAL RESERVE WEEKLY M-2 COMPONENTS - FEB 26
+    Week Feb 16 vs Feb 9 (DAILY AVG BILLIONS)
+          Seasonally Adjusted      Unadjusted
+ Currency......186.9 vs 186.8....185.6 vs 185.7
+ Demand Depos..300.3 vs 300.0....291.5 vs 295.6
+ Other Check...242.9 vs 241.2....240.0 vs 242.7
+ Savings.......164.3 vs 163.2....162.8 vs 161.9
+ Small Time....362.2 vs 362.9....361.9 vs 362.7
+ MMDAs...(Commercial Bank Only)..378.2 vs 379.1
+ O/N Repos........................58.9 vs  59.0
+ O/N Euros........................18.6 vs  19.2
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

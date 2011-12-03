@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="21400" OLDID="20036" TOPICS="NO">
+<DATE>19-OCT-1987 10:24:18.32</DATE>
+<TOPICS/>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   F 
+   f1239 reute
+d f BC-ALLIANT-COMPUTER-INTR   10-19 0078</UNKNOWN>
+<TEXT> 
+<TITLE>ALLIANT COMPUTER INTRODUCES MINISUPERCOMUPTER</TITLE>
+<DATELINE>    LITTLETON, Mass., Oct 19 - </DATELINE><BODY>Alliant Computer Systems Corp
+&lt;ALNT.O&gt; said it introduced a parallel vector minisupercomputer
+priced at less than 100,000 dlrs.
+    The company said the new FX/4 makes multi-user
+supercomputing affordable for the first time to workgroups in
+industrial and commercial markets.
+    The company said it also introduced high-performance
+compiler and algorithm products for the FX/Series systems.
+   
+    Alliant said it achieved the low price for the FX/4 through
+a combination of new packaging technology and cost decreases
+due to semiconductor price improvements and manufacturing
+efficiencies.
+    The company also released the FX/C compiler, which it said
+can double the performance of C programs.
+    The company said its newly released algorithm products, the
+FX/Linpack and FX/Eispack libraries, are collections of
+mathematical subroutines that programmers can call from all
+Alliant languages.
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

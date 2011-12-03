@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13432" OLDID="2415" TOPICS="BYPASS">
+<DATE> 7-APR-1987 04:47:55.57</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   RM
+   f0193 reute
+u f BC-LONDON-LIFFE-GILTS-09   04-07 0043</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+LONDON LIFFE GILTS 0945 - APR 7
+ MTH     LAST   HIGH     LOW   PR.SET
+ Jun    12411  12419   12409    12407
+ Sep      ---    ---     ---    12407
+ Dec      ---    ---     ---    12408
+ Mar      ---    ---     ---    11016
+ Jun      ---    ---     ---    12208
+ 
+
+</TEXT>
+</REUTERS>

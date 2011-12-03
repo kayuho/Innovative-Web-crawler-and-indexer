@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13626" OLDID="2609" TOPICS="BYPASS">
+<DATE> 7-APR-1987 08:24:53.05</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f0587 reute
+u f BC-nymex-heat-oil-vol   04-07 0131</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+ NYMEX - HEATING/CRUDE OIL - VOL/OPEN INTEREST - APRIL 6
+HEAT OIL-VOL  OPEN   CHANGE      CRUDE- VOL OPEN   CHANGE
+MAY  3014    18102   off  168    MAY  12420 58972  off  4110
+JNE  2967    14554   off  414    JNE  10935 58659  off   220
+JLY   868     5444   up   310    JLY   4317 24628  up    480
+AUG   289     2797   up    22    AUG    978  9009  off   120
+SEP    26     1799   up    21    SEP    592  4815  up     52
+OCT     3     1244   up     2    OCT    210  2426  up     17
+NOV     0      421   unch        NOV     30  1404  up     17
+DEC     0      409   up     4    DEC     92  2506  up     38
+JAN     0      250   unch        JAN      1   156  up      1
+                                 FEB      0     3  unch     
+TTL  7167   45,020   off  223    TTL  29575 162,578 off 3845
+ 
+
+</TEXT>
+</REUTERS>

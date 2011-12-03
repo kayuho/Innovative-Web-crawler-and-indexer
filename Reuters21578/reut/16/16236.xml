@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="16236" OLDID="771" TOPICS="YES">
+<DATE>13-APR-1987 09:14:42.18</DATE>
+<TOPICS><D>f-cattle</D><D>livestock</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C L
+   f0831 reute
+u f BC-U.S.-FEEDER-STEER-PRI   04-13 0091</UNKNOWN>
+<TEXT> 
+<TITLE>U.S. FEEDER STEER PRICE</TITLE>
+<DATELINE>    Chicago, April 13 - </DATELINE><BODY>The U.S. Feeder Steer Price, or USFSP,
+as posted by the CME is calculated by Cattle Fax and represents
+the price used for cash settlement of the CME Feeder Cattle
+contract.
+    The USFSP is a seven-calendar-day average of feeder steer
+prices from 27 states, based on auction and direct country
+sales for feeder steers that weigh between 600 and 800 lbs and
+are estimated to grade between 60 and 80 pct choice when fed to
+slaughter weight.
+    April 9         Previous quote
+    70.03             69.87
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

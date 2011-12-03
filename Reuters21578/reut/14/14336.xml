@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14336" OLDID="3319" TOPICS="BYPASS">
+<DATE> 7-APR-1987 12:32:16.63</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   GQ CQ
+   f1590 reute
+u f BC-cbt-s'beans-vol-oi   04-07 0093</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CBT SOYBEANS VOLUME/OPEN INTEREST FOR APR 6
+ 000'S-BUSHELS-volume/exchange/open-int/change
+ May 87  21665  7410 114990  dn   725
+ Jly 87  24740    10 156585  up  4075
+ Aug 87   5270     0  40240  up  1210
+ Sep 87   1505     0  18670  up    10
+ Nov 87  17970   195  90095  up  1005
+ Jan 88    660     0   7170  up   200
+ Mch 88     65     0   3095  up    25
+ May 88     70     0    670  up    60
+ Jly 88     55     0    105  up    55
+ Total   72000  7615 431620  up  5915
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="8772" OLDID="14293" TOPICS="NO">
+<DATE>24-MAR-1987 10:45:03.64</DATE>
+<TOPICS/>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   F
+   f1185 reute
+r f BC-WANG-&lt;WAN&gt;-IN-SOFTWAR   03-24 0093</UNKNOWN>
+<TEXT> 
+<TITLE>WANG &lt;WAN&gt; IN SOFTWARE INTEGRATION AGREEMENT</TITLE>
+<DATELINE>    LOWELL, Mass., March 24 - </DATELINE><BODY>Wang Laboratories Inc said it
+entered into a development and marketing agreement with
+Sterling Software's &lt;SSW&gt; Answer Systems Inc, aimed at
+integrating its data base product with Answer's mainframe
+database access tool.
+    Wang said the purpose of the projects is to offer Wang VS
+users direct access to information in DB2, IMS, and WSAM files
+residing on IBM (R) and IBM-compatible mainframes.
+    Wang said it will integrate its PACE product with Answer's
+System's Answer/DB (R).
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

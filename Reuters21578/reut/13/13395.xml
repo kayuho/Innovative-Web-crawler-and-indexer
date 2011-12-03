@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13395" OLDID="2378" TOPICS="BYPASS">
+<DATE> 7-APR-1987 03:57:14.02</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   RM
+   f0143 reute
+b f BC-LONDON-STERLING-FORWA   04-07 0081</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+LONDON STERLING FORWARDS OPENING - APRIL 7
+        1 MONTH        3 MONTHS      6 MONTHS
+ US     52/49          131/127       225/220
+ CAN    57/47          138/127       231/214
+ DMK    163/152        435/419       805/787
+ DFL    138/126        363/346       671/652
+ SFR    157/143        382/367       706/681
+ FFR    178/127        408/335       620/510
+ YEN    132/121        348/333       646/623
+ LIT    18/05          -26/+13       -05/+83
+ BFC    18/12          45/35         71/57
+ 
+
+</TEXT>
+</REUTERS>

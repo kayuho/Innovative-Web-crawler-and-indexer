@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14621" OLDID="3605" TOPICS="BYPASS">
+<DATE> 7-APR-1987 16:28:39.99</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f2397 reute
+u f BC-CBT-10-YEAR-NOTES-CLS   04-07 0110</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CBT 10 YEAR NOTES CLSG 7-APR
+      OPEN                  HIGH      LOW
+ JUN7 01 27/32H 01 25/32L   102       101 7/16
+ SEP7 101                   101 7/32  00 11/16
+ DEC7 00 11/32              00 15/32  100
+ MAR8     --                    --        --
+ JUN8     --                    --        --
+ SEP8     --                    --        --
+      CLOSE                 SETT      PSETT
+ JUN7 01 15/32H 01 14/32L   101 7/16  102 1/16
+ SEP7 00 23/32H 00 22/32L   00 11/16  101 5/16
+ DEC7 100                   100       100 5/8
+ MAR8     --                    --        --
+ JUN8     --                    --        --
+ SEP8     --                    --        --
+ 
+
+</TEXT>
+</REUTERS>

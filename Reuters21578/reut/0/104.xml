@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="104" OLDID="5647" TOPICS="YES">
+<DATE>26-FEB-1987 16:38:46.25</DATE>
+<TOPICS><D>cotton</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C G
+   f0048 reute
+u f BC-WORLD-MARKET-PRICE-FO   02-26 0089</UNKNOWN>
+<TEXT> 
+<TITLE>WORLD MARKET PRICE FOR UPLAND COTTON - USDA</TITLE>
+<DATELINE>    WASHINGTON, Feb 26 - </DATELINE><BODY>The U.S. Agriculture Department
+announced the prevailing world market price, adjusted to U.S.
+quality and location, for Strict Low Middling, 1-1/16 inch
+upland cotton at 52.69 cts per lb, to be in effect through
+midnight March 5.
+    The adjusted world price is at average U.S. producing
+locations (near Lubbock, Texas) and will be further adjusted
+for other qualities and locations. The price will be used in
+determining First Handler Cotton Certificate payment rates.
+    Based on data for the week ended February 26, the adjusted
+world price for upland cotton is determined as follows, in cts
+per lb --
+ Northern European Price               66.32
+      Adjustments --
+ Average U.S. spot mkt location 10.42 
+ SLM 1-1/16 inch cotton          1.80 
+ Average U.S. location           0.53
+ Sum of adjustments              12.75
+ Adjusted world price            53.57
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

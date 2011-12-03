@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14159" OLDID="3142" TOPICS="BYPASS">
+<DATE> 7-APR-1987 11:42:35.24</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   GQ
+   f1354 reute
+u f BC-MIDWEST-GRAIN-FUTURES   04-07 0061</UNKNOWN>
+<TEXT> 
+<TITLE>MIDWEST GRAIN FUTURES 11:40   EDT</TITLE>
+KANSAS CITY WHEAT
+ MAY7     273            OFF     1
+ JUL7     262            OFF     1
+ SEP7 265 1/2            UP    1/4
+ DEC7 269 3/4            OFF     1
+<DATELINE> MAR8  --     --</DATELINE><BODY>MINNEAPOLIS WHEAT
+ MAY7 284 1/2            UP      1
+ JUL7     281            UP    1/4
+ SEP7     277            UP      1
+ DEC7  --     --
+ MAR8  --     --
+ </BODY></TEXT>
+</REUTERS>

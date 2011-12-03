@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="21407" OLDID="20029" TOPICS="NO">
+<DATE>19-OCT-1987 10:21:11.98</DATE>
+<TOPICS/>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   F 
+   f1219 reute
+d f BC-SUN-MICRO'S-&lt;SUNW.O&gt;   10-19 0100</UNKNOWN>
+<TEXT> 
+<TITLE>SUN MICRO'S &lt;SUNW.O&gt; TOPS UPGRADES SOFTWARE</TITLE>
+<DATELINE>    BERKELEY, Calif., Oct 19 - </DATELINE><BODY>Sun Microsystems Co's TOPS
+subsidiary said it will have upgraded versions of its NetPrint
+and LAN -- local area network -- software packages available
+early next month.
+    The company said version 2.0 of its NetPrint will be
+available November 10 at a suggested retail price of 189 dlrs.
+NetPrint is software that enables International Business
+Machines Corp &lt;IBM&gt; personal computers and compatibles print
+directly to Apple Computer Inc &lt;AAPL.O&gt; LaserWriters or other
+PostScript compatible printers on an AppleTalk network.
+   
+    TOPS said it will begin shipping version 2.0 of its LAN
+software packages providing file sharing among Apple macintosh
+computers, IBM PCs and compatibles, and UNIX-based systems to
+retailers November six.
+    It said the TOPS/DOS version 2.0, which will have a
+suggested retail price of 189 dlrs, allows PCs on the network
+to access dedicated printers fomerly availabe to only one user.
+   
+    The TOPS/Macintosh version 2.0, also listed at 189 dlrs,
+introduces a "remember" function that allows users to make
+files available to the network and access remote files
+automatically. In addition, the software is now fully
+compatible with all Apple File Protocol applications.
+    Both LAN's include FlashTalk, a recently announced PC-to-PC
+communications architecture that operates at three-times TOPS'
+AppleTalk speed and is slated to sell for 239 dlrs.
+       
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

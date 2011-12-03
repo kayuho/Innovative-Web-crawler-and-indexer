@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="19056" OLDID="6892" TOPICS="NO">
+<DATE>19-JUN-1987 04:37:40.72</DATE>
+<TOPICS/>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   F 
+   f0246 reute
+u f BC-FUJITSU-DEVELOPS-FAST   06-19 0107</UNKNOWN>
+<TEXT> 
+<TITLE>FUJITSU DEVELOPS FAST SIMULATION PROCESSOR</TITLE>
+<DATELINE>    TOKYO, June 19 -  </DATELINE><BODY>Fujitsu Ltd &lt;ITSU.T&gt; has developed a
+simulation processor which will operate faster than any
+computer and will speed development of the next generation of
+computers, a spokesman told Reuters.
+    The simulation processor will halve the time needed for
+fault testing the millions of basic logic circuits incorporated
+in the latest computers, he said.
+    It can simulate the operation of as many as 530 mln logic
+elements a second if a maximum of 64 processors are
+interconnected. The simulation processor, which took four years
+to develop, will not be marketed, he said.
+ REUTER
+ </BODY></TEXT>
+</REUTERS>

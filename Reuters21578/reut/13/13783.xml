@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13783" OLDID="2766" TOPICS="BYPASS">
+<DATE> 7-APR-1987 09:51:05.75</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f0836 reute
+u f BC-IMM/IOM-TOTAL-OPEN-IN   04-07 0099</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+IMM/IOM TOTAL OPEN INTEREST FOR April  6
+         OPEN   CHANGE           OPEN   CHANGE
+ B POUND  41126 up  6256 LUMBER    6964 up  130
+ C DLR    27497 up   207 T-bill   37276 dn  775
+ D MARK   40982 dn   623 CD          36 unch 
+ F FRANC    281 unch     EURODLR 244504 up 2456
+ J YEN    48812 up  2216 SP 500  103238 up 1279 
+ A DLR     2006 up    11 SP 100  -----  ----
+ S FRANC  30329 up   787 SP250 otc ---  ----
+ ec unit     11 up     3 TTL IOM  644058 dn 8148  
+ ttl imm 472860 up 10538
+ Exchange total   1269160 up  3372 
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13383" OLDID="2366" TOPICS="BYPASS">
+<DATE> 7-APR-1987 03:37:01.05</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   RM
+   f0123 reute
+u f BC-LONDON-LIFFE-EURODOLL   04-07 0063</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+LONDON LIFFE EURODOLLAR 0835 - APR 7
+ MTH     LAST   HIGH     LOW   PR.SET
+ Jun     9333   9333    9333     9336
+ Sep      ---    ---     ---     9330
+ Dec      ---    ---     ---     9322
+ Mar      ---    ---     ---     9308
+ Jun      ---    ---     ---     9288
+ Sep      ---    ---     ---     9267
+ Dec      ---    ---     ---     9245
+ Mar      ---    ---     ---     9224
+ 
+
+</TEXT>
+</REUTERS>

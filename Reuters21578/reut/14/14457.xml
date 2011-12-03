@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14457" OLDID="3440" TOPICS="BYPASS">
+<DATE> 7-APR-1987 15:17:09.01</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   GQ
+   f2195 reute
+r f BC-toledo-deliv-wht-stks   04-07 0114</UNKNOWN>
+<TEXT> 
+<TITLE>TOLEDO DELIVERABLE WHEAT STOCKS</TITLE>
+<DATELINE>    TOLEDO, April 7  - </DATELINE><BODY>The CFTC reported the following stocks
+of wheat in Toledo as of Friday, April 3  deliverable against
+Chicago Board of Trade wheat futures (in 000's bu).
+                        CURRENT  WEEK  YEAR
+                        WEEK     AGO   AGO
+ SOFT RED WINTER          955    1142  1460
+ HARD RED WINTER            0       0     0
+ DARK NORTHERN SPRING       0       0     0
+ NORTHERN SPRING            0       0     0
+ TOTAL DEL GRADES         955    1142  1460
+ NON-DEL GRADES/UNGRADED  177     162     0
+ CCC STOCKS              1803    1783   793
+ TOTAL WHEAT STOCKS      2935    3087  2253
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

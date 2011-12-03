@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14636" OLDID="3620" TOPICS="BYPASS">
+<DATE> 7-APR-1987 16:36:50.59</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f2419 reute
+u f BC-KANSAS-CITY-VALUE-LIN   04-07 0077</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+KANSAS CITY VALUE LINE INDEX CLSG 7-APR
+        OPEN              HIGH      LOW
+ VLI    --                27380     27100
+ JUN   27270L    27280H   27430     26630
+ SEP   27200              27320     26540
+ DEC   26550              26550     26500
+        CLOSE             SETT      PSETT
+ VLIC    --                 --       27328
+ JUN7   26650L    26670H   26660     27345
+ SEP7   26560              26560     27260
+ DEC7   26500              26500     27200
+ 
+
+</TEXT>
+</REUTERS>

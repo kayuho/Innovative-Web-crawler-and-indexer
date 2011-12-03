@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13829" OLDID="2812" TOPICS="BYPASS">
+<DATE> 7-APR-1987 10:06:24.90</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ GQ LQ MQ TQ
+   f0904 reute
+b f BC-money-rates-int'l   04-07 0105</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+MONEY RATES - INTERNATIONAL SUMMARY - APR 7
+    U.S.
+Fed funds               6-1/8
+Broker loan             7.50-7.25
+                  30        60        90
+T-bills        5.39/37   5.40/38   5.52/51
+Cds dir         5.95       6.00       6.00
+Comm paper dir  6.16       6.16       6.13
+    INTERNATIONAL
+         CALL       1 MONTH          3 MONTH
+Ldn  10-1/4  1/8  10-1/16 9-15/16   9-7/8   3/4Fft  3.60/70    
+    3.80/85         3.80/90
+Par     unav            unav            unav
+Zur  7/8   1-1/8  2-15/16  3-1/16   3-1/2  5/8
+Ams  5-3/8   1/2   5-5/16   7/16  5-5/16   7/16Tok  3.6250 
+6875  3.8125  8750   3.9375 4.0000
+
+ 
+
+</TEXT>
+</REUTERS>

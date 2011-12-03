@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13776" OLDID="2759" TOPICS="BYPASS">
+<DATE> 7-APR-1987 09:47:06.22</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   MQ
+   f0824 reute
+u f BC-NY-COMEX-ALUMINUM-OPG   04-07 0073</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+NY COMEX ALUMINUM OPG TRENDS 7-APR
+          OPEN      P SETT
+APR7   --             6250
+MAY7   --             6150
+JUN7   --             6050
+JUL7   --             6000
+SEP7   --             5780
+DEC7   --             5720
+JAN8   --             5720
+FEB8   --              --
+MAR8   --             5720
+MAY8   --             5720
+JUL8   --             5720
+SEP8   --             5720
+DEC8   --             5720
+JAN9   --             5720
+ 
+
+</TEXT>
+</REUTERS>

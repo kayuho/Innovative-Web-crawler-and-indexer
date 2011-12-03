@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13634" OLDID="2617" TOPICS="BYPASS">
+<DATE> 7-APR-1987 08:30:19.63</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ MQ
+   f0608 reute
+b f BC-NYMEX-FUTURES-VOLUME/   04-07 0052</UNKNOWN>
+<TEXT> 
+<TITLE>NYMEX FUTURES VOLUME/OPEN INTEREST FOR APRIL 6</TITLE>
+<DATELINE>    (totals - </DATELINE><BODY>in contracts)
+              volume    open   change
+Platinum       4321     19120  off  173
+Palladium       348      6895  off   45
+Heating Oil    7167     45020  off  223
+Crude Oil     29575    162578  off 3845
+Unleaded Gas   6457     40390  off  948
+ REUTER
+ </BODY></TEXT>
+</REUTERS>

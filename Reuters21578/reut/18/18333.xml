@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="18333" OLDID="7778" TOPICS="NO">
+<DATE> 2-JUN-1987 18:03:46.98</DATE>
+<TOPICS/>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C
+   f2834 reute
+d f BC-CFTC-CLARIFIES-COMMOD   06-02 0103</UNKNOWN>
+<TEXT> 
+<TITLE>CFTC CLARIFIES COMMODITY TRADING ADVISOR RULES</TITLE>
+<DATELINE>    WASHINGTON, June 2 - </DATELINE><BODY>The U.S. Commodity Futures Trading
+Commission (CFTC) released guidelines on how commodity trading
+advisors (CTA) should calculate "beginning net asset value"
+(BNAV) for purposes of computing rates of return required by
+commission disclosure rules.
+    The commission said it was compelled to release the
+guidelines because it has received disclosure documents which
+indicate "serious differences" in the way certain CTAs are
+defining BNAW -- "differences that may have compromised the
+ability to compare rates of return among different advisors."
+    CFTC said CTAs must only use funds under their control or
+in conjunction with their carrying futures commission merchants
+in calculating BNAV.
+    Computation of BNAV must exclude any item that is not
+money, securities or other tangible property and any funds that
+are not under the control of the CTA, or CTA in conjunction
+with its carrying futures commission merchant.
+    CFTC said "notational" funds must be excluded because they
+are merely verbal promises to furnish funds.
+    Funds in a commodity trading account over which a CTA has
+discretionary trading authority must be included, CFTC said.
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

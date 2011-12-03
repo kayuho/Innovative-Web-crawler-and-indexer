@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="2191" OLDID="18609" TOPICS="YES">
+<DATE> 5-MAR-1987 11:42:35.18</DATE>
+<TOPICS><D>grain</D><D>wheat</D><D>barley</D></TOPICS>
+<PLACES><D>belgium</D></PLACES>
+<PEOPLE/>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C G
+   f0705 reute
+b f BC-EC-REJECTS-ALL-WHEAT   03-05 0057</UNKNOWN>
+<TEXT> 
+<TITLE>EC REJECTS WHEAT EXPORT BIDS, GRANTS BARLEY</TITLE>
+<DATELINE>    BRUSSELS, March 5 - </DATELINE><BODY>The European Community's cereal
+management committee rejected all bids to export free market
+soft wheat at today's weekly tender, traders said.
+    The committee awarded 123,000 tonnes of free market barley
+export licences at a maximum export refund of 138.75 Ecus per
+tonne.
+ </BODY></TEXT>
+</REUTERS>

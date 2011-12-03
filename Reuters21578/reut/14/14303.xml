@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14303" OLDID="3286" TOPICS="NO">
+<DATE> 7-APR-1987 12:21:03.00</DATE>
+<TOPICS/>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   F
+   f1543 reute
+h f BC-MOTOROLA-&lt;MOT&gt;-SELECT   04-07 0105</UNKNOWN>
+<TEXT> 
+<TITLE>MOTOROLA &lt;MOT&gt; SELECTS SYSTEM COMPILERS</TITLE>
+<DATELINE>    TEMPE, Ariz., April 7 - </DATELINE><BODY>Motorola Inc said it has selected
+&lt;Oregon Software's&gt; Pascal-2 compilers as the compiler for its
+MC68000 family of 16-bit microprocessor chips under the
+VERSados and SYSTEM V/68 operating systems.
+    Also, Motorola said that its Microcomputer Division and
+Oregon Software will be the sole supplier of the Pascal
+suppliers.
+    Motorola said the Pascal-2 compiler for SYSTEM V/68,
+supporting the MC68020 and MC68881, is priced at 2,800 dlrs for
+June delivery.
+    It added that the Pascal-2 compiler for the VERSAdos system
+is priced at 2,800 dlrs for June delivery.
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

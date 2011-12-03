@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="11012" OLDID="17073" TOPICS="YES">
+<DATE>30-MAR-1987 14:32:12.01</DATE>
+<TOPICS><D>grain</D><D>wheat</D><D>corn</D><D>oilseed</D><D>soybean</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C G
+   f2221 reute
+f f BC-export-inspections   03-30 0015</UNKNOWN>
+<TEXT TYPE="BRIEF"> 
+******<TITLE>U.S. EXPORT INSPECTIONS, IN THOUS BUSHELS  SOYBEANS 17,683 WHEAT 20,717 CORN 36,581
+</TITLE>Blah blah blah.
+ 
+
+</TEXT>
+</REUTERS>

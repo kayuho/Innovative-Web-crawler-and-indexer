@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14643" OLDID="3626" TOPICS="BYPASS">
+<DATE> 7-APR-1987 16:39:52.77</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   FQ EQ
+   f2428 reute
+u f BC-montreal-indices-clsg   04-07 0030</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+ MONTREAL INDICES CLOSING-APR 7
+ Industrials  1,563.99 off 1.17
+ Utilities    1,623.60 up  0.11
+ Banks        1,642.74 off 1.13
+ Portfolio    1,922.51 off 0.65
+ VOLUME  12,455,102
+ 
+ 
+
+</TEXT>
+</REUTERS>

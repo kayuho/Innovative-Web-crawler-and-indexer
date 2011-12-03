@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13467" OLDID="2450" TOPICS="BYPASS">
+<DATE> 7-APR-1987 06:20:51.78</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C G
+   f0336 reute
+r f BC-kuala-lumpur-palm-oil   04-07 0043</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+Kuala lumpur palm oil clsg -april 7
+ (in order byr/slr/last trd/sales)
+ apl 746 747 750 87
+ may 746 747 747 169
+ jne 746 747 746 170
+ jly 741 743 743 22
+ aug 724 734 nil
+ sep 724 734 nil
+ nov 724 734 nil
+ jan 725 735 nil
+ mch 725 735 nil
+ sales 448
+ tone higher
+ 
+
+</TEXT>
+</REUTERS>

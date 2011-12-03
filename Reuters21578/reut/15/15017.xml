@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="15017" OLDID="4000" TOPICS="YES">
+<DATE> 8-APR-1987 10:28:08.79</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>belgium</D><D>france</D><D>west-germany</D><D>spain</D><D>denmark</D></PLACES>
+<PEOPLE/>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   T C
+   f1117 reute
+b f BC-EC-COMMISSION-DETAILS   04-08 0069</UNKNOWN>
+<TEXT> 
+<TITLE>EC COMMISSION DETAILS SUGAR TENDER</TITLE>
+<DATELINE>    BRUSSELS, April 8 - </DATELINE><BODY>The EC Commission confirmed it granted
+export licences for 118,350 tonnes of current series white
+sugar at a maximum export rebate of 46.496 European Currency
+Units (ECUs) per 100 kilos.
+    Out of this, traders in France received 34,500 tonnes, in
+the U.K. 37,800, in West-Germany 20,000, in Belgium 18,500, in
+Spain 5,800 and in Denmark 1,750 tonnes.
+ REUTER
+ </BODY></TEXT>
+</REUTERS>

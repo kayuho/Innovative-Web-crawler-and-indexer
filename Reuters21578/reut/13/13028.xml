@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13028" OLDID="1997" TOPICS="BYPASS">
+<DATE> 3-APR-1987 13:27:04.11</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+
+   CQ MQ
+   f1804 reute
+r f BC-cbt-silver-vol-oi   04-03 0080</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CBT SILVER VOLUME/OPEN INTEREST FOR APRIL 2
+     VOLUME  OPEN-INT  CHANGE
+ Apr  714      684    up  516
+ May   14       36    dn    1
+ Jun 3097     7109    dn  140
+ Aug   86      537    up   20
+ Oct   12      157    up    7
+ Dec  215     3125    up   56
+ Feb    3      252    up    1
+ Apr   28     1275    dn    2
+ Jun   54      103    up   49
+ Aug    0        9       unch
+ TTL 4223    13287    up  506
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13991" OLDID="2974" TOPICS="BYPASS">
+<DATE> 7-APR-1987 10:59:32.14</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   C
+   f1123 reute
+r f BC-KCBOT-VLA-STOCK-INDEX   04-07 0045</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+KCBOT VLA STOCK INDEX VOLUME AND OPEN INTEREST
+ In contracts for April 6
+ Month     Volume     Open       Change
+ Jun        2343      6368      Up  226
+ Sep          51       394      Up   24
+ Dec           2        75            0
+ Ttl        2396      6837      Up  250
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

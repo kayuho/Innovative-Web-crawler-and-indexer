@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14400" OLDID="3383" TOPICS="BYPASS">
+<DATE> 7-APR-1987 14:55:47.99</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   MQ
+   f2118 reute
+u f BC-ny-plat-est-vol   04-07 0029</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+NYMEX PLATINUM ESTIMATED VOLUME-APRIL 7
+ APL    118
+ JNE      0
+ JLY   4526
+ OCT    188
+ JAN      6
+ APL      8
+ Jly      0
+Estimated volume  4,846
+Prev official volume   4,321
+ 
+
+</TEXT>
+</REUTERS>

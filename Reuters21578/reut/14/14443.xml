@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14443" OLDID="3426" TOPICS="BYPASS">
+<DATE> 7-APR-1987 15:12:56.03</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   TQ
+   f2180 reute
+u f BC-ny-comms-est-vols   04-07 0085</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+N.Y. COMMODITY FUTURES ESTIMATED VOLUMES - APRIL 7
+ Time                   11.00  12.00  13.00  CLOSE
+ Coffee                   825   1343   1837   3605
+ Cocoa                    756   1058   1114   1461
+ Sugar 11                7040  11682  16403  20339
+ Sugar 14                  16     38     38     48
+ Orange                  ----    ---    ---   1000
+ Cotton                  ----    ---    ---   3800
+ Sugar 11 options calls   364    655    825   1040
+ Sugar 11 options puts    115    233    327    435
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

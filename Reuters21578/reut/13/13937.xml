@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13937" OLDID="2920" TOPICS="BYPASS">
+<DATE> 7-APR-1987 10:37:49.38</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ GQ
+   f1047 reute
+u f BC-CBT-OPG-TRENDS-(2)-7-   04-07 0116</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CBT OPG TRENDS (2) 7-APR
+            OPEN         P SETT
+SOYBEANS
+ MAY7499 1/2L  499 3/4H  499 3/4
+ JUL7499 3/4L  500 1/2H  500 1/4
+ AUG7    500L  500 1/4H  499 1/2
+ SEP7    496H  495 1/2L      494
+ NOV7496 1/2                 496
+ JAN8504 1/4L  504 1/2H  502 1/2
+ MAR8                        510
+ MAY8                        514
+ JUL8                        514
+SOYBEAN OIL
+ MAY7   1552H     1550L     1543
+ JUL7   1585H     1583L     1578
+ AUG7   1602                1595
+ SEP7   1620                1611
+ OCT7   1633                1625
+ DEC7   1665                1654
+ JAN8                       1655
+ MAR8                       1680
+ MAY8                       --
+ JUL8                       --
+ 
+
+</TEXT>
+</REUTERS>

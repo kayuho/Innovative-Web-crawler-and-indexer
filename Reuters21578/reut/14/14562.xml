@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14562" OLDID="3545" TOPICS="BYPASS">
+<DATE> 7-APR-1987 16:01:52.04</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f2324 reute
+u f BC-NYMEX-HEATING-OIL-CLS   04-07 0145</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+NYMEX HEATING OIL CLSG 7-APR
+          OPEN      HIGH   LOW     CLOSE
+ MAY7 4900L  4905H  4955  4900  4920L  4930H
+ JUN7 4845L  4855H  4915  4850  4885L  4895H
+ JUL7 4835          4900  4835  4870
+ AUG7 4880          4930  4875   --
+ SEP7 4950          5000  4950   --
+ OCT7  --           5085  5050   --
+ NOV7  --           5130  5110   --
+ DEC7  --           5250  5170  5170
+ JAN8  --           5219  5219   --
+ FEB8  --           5220  5220   --
+ MAR8  --            --    --    --
+ APR8  --            --    --    --
+ MAY8  --            --    --    --
+ JUN8  --            --    --    --
+    SETT  P SETT    SETT  P SETT    SETT P SETT
+ MAY7 4924  4879 JUN7 4893  4831 JUL7 4870  4816
+ AUG7 4917  4862 SEP7 4987  4930 OCT7 5062  5009
+ NOV7 5132  5085 DEC7 5202  5160 JAN8 5252  5219
+ FEB8 5282   --  MAR8  --    --  APR8  --   4915
+ MAY8  --     85 JUN8  --    --
+ 
+
+</TEXT>
+</REUTERS>

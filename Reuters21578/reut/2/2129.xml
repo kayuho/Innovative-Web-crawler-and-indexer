@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="2129" OLDID="18547" TOPICS="NO">
+<DATE> 5-MAR-1987 11:05:37.16</DATE>
+<TOPICS/>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   F
+   f0491 reute
+r f BC-BOLT-BERANEK-AND-NEWM   03-05 0082</UNKNOWN>
+<TEXT> 
+<TITLE>BOLT BERANEK AND NEWMAN &lt;BBN&gt; UNIT SELLS SYSTEM</TITLE>
+<DATELINE>    CAMBRIDGE, Mass, March 5 - </DATELINE><BODY>Bolt Beranek and Newman Inc said
+its subsidiary BBN Advanced Computers Inc sold approximately
+700,000 dlrs worth of its Butterfly parallel processors to
+Indiana University, MITRE Corp, FMC Corp and the Naval Research
+Laboratory.
+    Among the uses for the system are graphics, development of
+genetic algorithms for solving complex combinational problems,
+and artificial intelligence applications, the company said.
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

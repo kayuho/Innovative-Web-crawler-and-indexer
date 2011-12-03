@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14765" OLDID="3748" TOPICS="BYPASS">
+<DATE> 7-APR-1987 19:12:33.43</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   Y
+   f2681 reute
+u f BC-NYMEX-ESTIMATED-VOLUM   04-07 0109</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+NYMEX ESTIMATED VOLUMES/APRIL 7 MONTH     CRUDE OIL     HEATING
+OIL    UNLEADED GASOLINE
+MAY       16,175          3,282               3,215     
+JUNE      15,789          2,493               3,449     
+JULY       7,175            793               1,358     
+AUGUST     2,665            325                 388     
+SEPTEMBER  1,403            159                 104     
+OCTOBER      136             40                  42     
+NOVEMBER     118              3                  19     
+DECEMBER     750             86                  33     
+JANUARY      170              2               -----     
+TOTAL     44,380          7,268               8,693     
+ 
+
+</TEXT>
+</REUTERS>

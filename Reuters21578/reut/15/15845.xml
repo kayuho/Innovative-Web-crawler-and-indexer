@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="15845" OLDID="5200" TOPICS="YES">
+<DATE> 9-APR-1987 15:01:13.12</DATE>
+<TOPICS><D>grain</D><D>corn</D><D>wheat</D><D>oilseed</D><D>soybean</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ GQ
+   f2161 reute
+f f BC-supply/demand-snap   04-09 0015</UNKNOWN>
+<TEXT TYPE="BRIEF"> 
+******<TITLE>USDA - U.S. 1986/87 ENDING CORN STOCKS  5,240 MLN BU, WHEAT 1,848 MLN, SOYBEANS 610 MLN
+</TITLE>Blah blah blah.
+ 
+
+</TEXT>
+</REUTERS>

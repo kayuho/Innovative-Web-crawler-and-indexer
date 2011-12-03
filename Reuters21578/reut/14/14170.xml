@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14170" OLDID="3153" TOPICS="BYPASS">
+<DATE> 7-APR-1987 11:43:42.22</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   TQ CQ
+   f1366 reute
+u f BC-ny-coffee-opg-summary   04-07 0062</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+ N.Y. COFFEE C VOL/OPEN INT APRIL 6
+      VOL       OPEN    CHANGE
+ MAY  1414       6619    off  340
+ JLY  1199       5789    up    51
+ SEP   289       4029    up     6
+ Dec   310       2489    up    45
+ MCH    11        347    up     4
+ MAY     9         61    off    5
+ JLY     2         73    unch    
+ Sep     0          2    up     1
+Total 3,234     19409    off  238
+ 
+
+</TEXT>
+</REUTERS>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14108" OLDID="3091" TOPICS="BYPASS">
+<DATE> 7-APR-1987 11:31:33.90</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   T
+   f1283 reute
+u f BC-LONDON-COCOA-SHIPMENT   04-07 0050</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+LONDON COCOA SHIPMENTS CLOSING - APR 7
+    GHANA Cocoa differentials based on London terminal prices,
+stg per tonne cif U.K./N.E.
+ SPOT     50 over May
+ Mar/May  50 over May
+ Apr/Jun  55 over Jul
+ May/Jul  55 over Jul
+ Jun/Aug  60 over Sep
+ Jul/Sep  65 over Sep
+ Oct/Dec  80 over Dec
+ All nominal sellers
+ 
+
+</TEXT>
+</REUTERS>

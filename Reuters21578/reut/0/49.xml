@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="49" OLDID="5592" TOPICS="YES">
+<DATE>26-FEB-1987 15:52:25.60</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>usa</D><D>panama</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   G T M
+   f0888 reute
+d f BC-panama-canal-ships   02-26 0071</UNKNOWN>
+<TEXT> 
+<TITLE>AGENCY REPORTS 39 SHIPS WAITING AT PANAMA CANAL</TITLE>
+<DATELINE>    WASHINGTON, Feb 26 - </DATELINE><BODY>The Panama Canal Commission, a U.S.
+government agency, said in its daily operations report that
+there was a backlog of 39 ships waiting to enter the canal
+early today. Over the next two days it expects --              
+             2/26  2/27
+                       Due: 27    35
+      Scheduled to Transit: 35    41
+           End-Day Backlog: 31    25
+    Average waiting time tomorrow --
+         Super Tankers  Regular Vessels
+ North End:  13 hrs      15 hrs
+ South End:   4 hrs      26 hrs
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

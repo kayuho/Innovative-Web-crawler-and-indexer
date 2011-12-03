@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14789" OLDID="3772" TOPICS="BYPASS">
+<DATE> 7-APR-1987 21:57:38.22</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   T
+   f2733 reute
+u f BC-TOKYO-RUBBER-(YEN-PER   04-07 0127</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+TOKYO RUBBER (YEN PER KILO) - APRIL 08
+          PREV     OPG    1045    1345    1445    CLSG  
+OPN/INT
+ APR     122.3   122.3   122.3                            1,613
+ MAY     124.3   123.5   123.6                            3,832
+ JUN     125.2   124.6   124.6                            2,640
+ JUL     125.7   125.4   125.6                            2,398
+ AUG     126.7   125.9   126.0                            2,405
+ SEP     126.9   126.7   126.8                            3,008
+ OCT     126.7   126.6   127.4                            3,967
+ NOV     127.5   127.8   128.7                            6,307
+ DEC     127.8   128.2   128.4                            1,224
+ T/O     1,341     225
+ OPN/TTL27,565                                            27,394
+ 
+
+</TEXT>
+</REUTERS>

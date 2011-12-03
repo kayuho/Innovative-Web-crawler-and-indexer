@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14589" OLDID="3572" TOPICS="BYPASS">
+<DATE> 7-APR-1987 16:15:36.03</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   LQ
+   f2353 reute
+d f BC-pork-cutout   04-07 0063</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+PORK CUT OUT FOR APRIL 7 
+    Estimated gross cutout value of 175 lb hog carcasses based
+on carlot prices of pork cuts and yields from USDA tests. FOB
+OMAHA BASIS.
+           Grade of Carcass (price per cwt)
+           ONE      TWO      THREE    FOUR
+ Value/cwt 67.72    65.78    63.85    61.91 
+ Change from previous day
+          dn 0.22   dn 0.20  dn 0.17  dn 0.15
+ Calculations for US No.2 175 lb pork carcasses.
+                     CARCASS  FOB
+ CUT          WEIGHT  PCT    OMAHA  CHANGE
+ Skinned Hams 14-20 21.01  73.50  dn 6.50 
+ Loins/retail 14-22 20.33 112.00  up 5.00 
+ Sdls Bellies 12-14 13.90  61.00  up 1.00 
+ Spareribs    3.5/dn 3.03 143.00  unch    
+ Picnics      8-12  10.31  42.50  unch    
+ Butts/retail 4-8    7.25  83.00  unch    
+ 72 pct trim         2.19  75.00  unch    
+ TOTAL PERCENTAGE 94.51, VALUE/CWT 65.78
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

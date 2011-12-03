@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13779" OLDID="2762" TOPICS="BYPASS">
+<DATE> 7-APR-1987 09:48:28.13</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f0827 reute
+u f BC-imm/iom-ttl-vol   04-07 0073</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+IMM/IOM TOTAL VOLUME FOR April  6
+    B POUND    13053  Lumber       1336
+    C DLR       2137  T-bill       4122 
+    D MARK     23820  CD              0
+    F FRANC        0  Eurodlr      48804 
+    J YEN      11720  SP 500       67104 
+    S FRANC    16727  SP 100       ----
+    A DLR        191  SP 250 otc   ----
+    ec unit        3  TTL IOM      106942
+    ttl imm   120577  EXCHANGE TOTAL 260613
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>

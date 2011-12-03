@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="13701" OLDID="2684" TOPICS="BYPASS">
+<DATE> 7-APR-1987 09:17:30.35</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   RM CQ MQ
+   f0728 reute
+u f BC-NY-COMEX-SILVER-OPG-T   04-07 0068</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+NY COMEX SILVER OPG TRENDS 7-APR
+          OPEN      P SETT
+ APR7  --             6548
+ MAY7 6730            6580
+ JUN7  --             6617
+ JUL7 6840            6654
+ SEP7 6910            6730
+ DEC7 7010            6838
+ JAN8  --             6876
+ MAR8 7130            6946
+ MAY8 7210            7025
+ JUL8 7280            7109
+ SEP8 7400            7194
+ DEC8 7540            7327
+ JAN9  --             7373
+ 
+
+</TEXT>
+</REUTERS>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14032" OLDID="3015" TOPICS="BYPASS">
+<DATE> 7-APR-1987 11:08:49.00</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   G
+   f1177 reute
+r f BC-LONDON-EC-BARLEY/WHEA   04-07 0053</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+LONDON EC BARLEY/WHEAT CLOSING - APR 7
+      BARLEY               WHEAT
+  May 114.65           May 122.80
+  Sep  99.85           Jul 125.50
+  Nov 102.45           Sep 101.20
+  Jan 105.05           Nov 103.40
+  Mar 107.50           Jan 106.35
+  May 109.40           Mar 108.75
+                       May 111.40
+  ALL VALUES
+ SALES
+ BARLEY   24
+ WHEAT   197
+ 
+
+</TEXT>
+</REUTERS>

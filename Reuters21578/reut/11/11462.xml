@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="11462" OLDID="17524" TOPICS="YES">
+<DATE>31-MAR-1987 12:30:26.39</DATE>
+<TOPICS><D>coffee</D><D>sugar</D><D>cocoa</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES><D>nycsce</D></EXCHANGES>
+<COMPANIES/>
+<UNKNOWN> 
+   C T
+   f1784 reute
+u f BC-nycsce-limits   03-31 0133</UNKNOWN>
+<TEXT> 
+<TITLE>CSCE ALTERS RULES ON TRADING LIMITS</TITLE>
+<DATELINE>    New York, March 31 - </DATELINE><BODY>The Coffee, Sugar and Cocoa Exchange
+amended regulations governing expanded trading limits on
+coffee, cocoa and sugar contracts to provide uniformity.
+    Effective today, the exchange will permit normal daily
+price limits in those commodities to expand whenever the first
+two limited contract months move the limit in the same
+direction for two consecutive sessions.
+    The normal daily limits will be reinstated once the first
+two limited deliveries close by less than the normal limit for
+two successive trading days.
+    Previously exchange rules required the first three limited
+months to move the limit in coffee and cocoa. It had required
+the first two limited sugar deliveries to make such moves for
+three consecutive sessions.
+ reuter
+ </BODY></TEXT>
+</REUTERS>

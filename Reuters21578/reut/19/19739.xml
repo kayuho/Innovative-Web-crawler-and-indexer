@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TEST" NEWID="19739" OLDID="8067" TOPICS="NO">
+<DATE>29-JUN-1987 12:42:43.19</DATE>
+<TOPICS/>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   F 
+   f1765 reute
+d f BC-INTEL-&lt;INCT.O&gt;-SETS-P   06-29 0099</UNKNOWN>
+<TEXT> 
+<TITLE>INTEL &lt;INCT.O&gt; SETS PACT WITH SILICON COMPILER</TITLE>
+<DATELINE>    SAN JOSE, Calif, June 29 - </DATELINE><BODY>Intel Corp said it has signed a
+letter of intent with privately-held Silicon Compiler Systems
+Corp under which Intel will become a value-added silicon vendor
+for integrated circuits designed with Silicon Compiler's
+GENESIL silicon compilation system.
+    Under the proposed pact, Intel would provide initial
+silicon foundry services for GENESIL-based designs.
+    GENESIL users would be able to compile their
+application-specific designs using Intel's 1.5-micron
+complementary metal-oxide semiconductor process.
+   
+ Reuter
+ </BODY></TEXT>
+</REUTERS>

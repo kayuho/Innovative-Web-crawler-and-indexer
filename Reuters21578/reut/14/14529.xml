@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14529" OLDID="3512" TOPICS="BYPASS">
+<DATE> 7-APR-1987 15:48:35.03</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   CQ
+   f2285 reute
+u f BC-CHGO-IMM-CERTIFICATES   04-07 0047</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+CHGO IMM CERTIFICATES OF DEPOSIT CLSG 7-APR
+      OPEN         HIGH  LOW
+ JUN7  9372        9372  9369
+ SEP7   --          --    --
+ DEC7   --          --    --
+      CLOSE        SETT  PSETT
+ JUN7  9372         9369  9370
+ SEP7   --           --   9398
+ DEC7   --           --    --
+ 
+
+</TEXT>
+</REUTERS>

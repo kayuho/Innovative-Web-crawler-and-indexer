@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><REUTERS CGISPLIT="TRAINING-SET" LEWISSPLIT="TRAIN" NEWID="14714" OLDID="3697" TOPICS="BYPASS">
+<DATE> 7-APR-1987 17:30:40.05</DATE>
+<TOPICS/>
+<PLACES/>
+<PEOPLE/>
+<ORGS/>
+<EXCHANGES/>
+<COMPANIES/>
+<UNKNOWN> 
+   YQ
+   f2570 reute
+b f BC-wkly-api   04-07 0122</UNKNOWN>
+<TEXT TYPE="UNPROC"> 
+API WEEKLY REPORT ON FUEL PRODUCTION AND STOCKS
+  (In Thousands of Barrels a Day, Except Stocks)
+                     4/03/87   3/27/87   4/04/86
+ Gasoline Production   6,633     6,423     6,051
+ Gasoline Stocks     247,908   245,617-R 216,393
+ Distillate Produc     2,518     2,388     2,662
+ Distillate Stocks   106,958   106,330-R  96,129
+ Residual Fuel Produc    970       948       925
+ Resid Fuel Stocks    38,254    37,976-R  39,074
+ Jet Fuel Production   1,361     1,305     1,174
+ Jet Fuel Stocks      48,958    48,822    47,449
+ Crude Oil Stocks    337,732   329,208-R 338,410
+ Crude Oil Imports     3,403     3,598-R   3,252
+ Refinery Runs        12,536    12,205    12,002
+ Pct of Capacity        80.4      78.3      77.4
+ Reuter
+ 
+
+</TEXT>
+</REUTERS>
