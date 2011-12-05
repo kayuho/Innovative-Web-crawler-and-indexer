@@ -19,6 +19,7 @@ public class Pair<A, B> {
 
 	public boolean equals(Object other) {
 		if (other instanceof Pair) {
+			@SuppressWarnings("rawtypes")
 			Pair otherPair = (Pair) other;
 			return 
 					((  this.first == otherPair.first ||
