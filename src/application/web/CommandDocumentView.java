@@ -10,8 +10,8 @@ import javax.servlet.http.HttpServletResponse;
 
 import technical.helpers.BenchmarkRow;
 
+import domain.collection.documents.ReutersDocument;
 import domain.index.DiskReaderThread;
-import domain.index.reuters.ReutersDocument;
 
 public class CommandDocumentView extends Command {
 

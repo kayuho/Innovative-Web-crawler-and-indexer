@@ -6,7 +6,7 @@ package domain.search.booleantree;
 
 import java.util.Set;
 
-import domain.Document;
+import domain.index.Posting;
 import domain.index.spimi.IInvertedIndex;
 
 public class QueryTree
@@ -34,7 +34,7 @@ public class QueryTree
     	return root;
     }
 
-    public Set<Document> getResult(IInvertedIndex index)
+    public Set<Posting> getResult(IInvertedIndex index)
     {	
     	QueryTreeNode.queryTerms="";
     	return root.getResult(index);

@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import domain.GenericPosting;
+import domain.collection.documents.GenericDocument;
 import domain.index.spimi.GenerateIndex;
 import domain.search.QueryProcessor;
 import domain.search.Result;
@@ -69,7 +69,7 @@ public class InteractiveQuery {
 			
 		while (QueryProcessor.hasNext()) {
 			Result r =  QueryProcessor.next();
-			GenericPosting a = r.getResult();
+			GenericDocument a = r.getResult();
 			System.out.print(a.getId() + " - " + r.getRank());
 			System.out.println("\t" + a.getTitle());
 		}

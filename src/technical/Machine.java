@@ -3,9 +3,7 @@ package technical;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.LinkedList;
-
-
-import domain.Document;
+import domain.index.Posting;
 
 
 /**
@@ -33,7 +31,7 @@ public class Machine {
 	 * @throws IOException
 	 * @throws ClassNotFoundException 
 	 */
-	public boolean addBlock(HashMap<String, LinkedList<Document>> dictionary) throws IOException, ClassNotFoundException {
+	public boolean addBlock(HashMap<String, LinkedList<Posting>> dictionary) throws IOException, ClassNotFoundException {
 		if((availableMemorySpace = MEM()) < 100 && ++count > 5000){
 //			System.out.println("Memory available left: " + availableMemorySpace);
 			count = 0;

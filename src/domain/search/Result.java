@@ -3,30 +3,30 @@ package domain.search;
 
 import java.util.HashSet;
 
-import domain.GenericPosting;
-import domain.Document;
+import domain.collection.documents.GenericDocument;
+import domain.index.Posting;
 
 public class Result implements Comparable<Result> {
 
-	private GenericPosting result;
+	private GenericDocument result;
 	private double rank;
-	private HashSet<Document> matchesFor;
+	private HashSet<Posting> matchesFor;
 	
-	public Result(GenericPosting result, double rank) {
+	public Result(GenericDocument result, double rank) {
 		super();
 		this.result = result;
 		this.rank = rank;
 	}
 
-	public Result(GenericPosting result, double rank, Document p) {
+	public Result(GenericDocument result, double rank, Posting p) {
 		super();
 		this.result = result;
 		this.rank = rank;
-		matchesFor = new HashSet<Document>();
+		matchesFor = new HashSet<Posting>();
 		matchesFor.add(p);
 	}
 
-	public GenericPosting getResult() {
+	public GenericDocument getResult() {
 		return result;
 	}
 	public double getRank() {
@@ -36,7 +36,7 @@ public class Result implements Comparable<Result> {
 	
 	@Override
 	/**
-	 * USed for insertion in a sorted array.. the better the result the first you are
+	 * Used for insertion in a sorted array.. the better the result the first you are
 	 */
 	public int compareTo(Result other) {
 		if (other.rank == this.rank)
@@ -51,11 +51,9 @@ public class Result implements Comparable<Result> {
 		return (((Result) o).getResult().getId() == getResult().getId());
 	}
 	
-	public void addPosting(Document document) {
+	public void addPosting(Posting posting) {
 		if (matchesFor == null)
-			matchesFor = new HashSet<Document>();
-		matchesFor.add(document);
+			matchesFor = new HashSet<Posting>();
+		matchesFor.add(posting);
 	}
-	
-	
 }

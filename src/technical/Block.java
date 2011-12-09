@@ -9,8 +9,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
-
-import domain.Document;
+import domain.index.Posting;
 
 
 public class Block implements Serializable{
@@ -25,20 +24,20 @@ public class Block implements Serializable{
 	FileOutputStream fos = null;
 	ObjectInputStream in = null;
 	ObjectOutputStream out = null;
-	private HashMap<String, LinkedList<Document>> dictionary;
+	private HashMap<String, LinkedList<Posting>> dictionary;
 	
 	@SuppressWarnings("unchecked")
-	public HashMap<String, LinkedList<Document>> getBlock() throws IOException, ClassNotFoundException { 
+	public HashMap<String, LinkedList<Posting>> getBlock() throws IOException, ClassNotFoundException { 
 		if(dictionary != null) return dictionary;
 		else {
 			fis = new FileInputStream(filename);
 			in = new ObjectInputStream(fis);
-			dictionary = (HashMap<String, LinkedList<Document>>) in.readObject();
+			dictionary = (HashMap<String, LinkedList<Posting>>) in.readObject();
 			return dictionary;
 		}
 	}
 		
-	public void setBlock(HashMap<String, LinkedList<Document>> dictionary){	this.dictionary = dictionary; }
+	public void setBlock(HashMap<String, LinkedList<Posting>> dictionary){	this.dictionary = dictionary; }
 	
 	public void WriteBlockToDisk() throws IOException {
 		fos = new FileOutputStream(filename);

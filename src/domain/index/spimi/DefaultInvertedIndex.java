@@ -21,30 +21,30 @@ import java.util.TreeMap;
 import technical.helpers.BenchmarkRow;
 import technical.helpers.Constants;
 
-import domain.GenericPosting;
-import domain.Document;
 import domain.collection.CollectionFactory;
+import domain.collection.documents.GenericDocument;
+import domain.index.Posting;
 
 
 public class DefaultInvertedIndex implements IInvertedIndex {
 
-	private AbstractMap<String, ArrayList<Document>> map = new TreeMap<String, ArrayList<Document>>();
+	private AbstractMap<String, ArrayList<Posting>> map = new TreeMap<String, ArrayList<Posting>>();
 	
-	boolean add(String token, ArrayList<Document> documentList) {
+	boolean add(String token, ArrayList<Posting> PostingList) {
 		if (token == null ) return false;
 		if (map.containsKey(token)) {
-			//add this document to the list of document that contains this token
-			map.put(token, mergeTwoPostingList(map.get(token), documentList));
+			//add this Posting to the list of Posting that contains this token
+			map.put(token, mergeTwoPostingList(map.get(token), PostingList));
 			return true;
 		} else {
-			map.put(token, documentList);
+			map.put(token, PostingList);
 			return false;
 		}
 	
 	}
 	
-	private ArrayList<Document> mergeTwoPostingList(ArrayList<Document> a, ArrayList<Document> b) {
-		for (Document p1:a) {
+	private ArrayList<Posting> mergeTwoPostingList(ArrayList<Posting> a, ArrayList<Posting> b) {
+		for (Posting p1:a) {
 			int idxInB = b.indexOf(p1);
 			if (idxInB == -1)
 				b.add(p1);
@@ -54,27 +54,27 @@ public class DefaultInvertedIndex implements IInvertedIndex {
 		return b;
 	}
 	@Override
-	public boolean add(String token, int documentNumber) {
+	public boolean add(String token, int PostingNumber) {
 		// If this token is already in our index
 		if (map.containsKey(token)) {
-			//add this document to the list of document that contains this token
-			int idx = map.get(token).indexOf(new Document(token, documentNumber,-1));
+			//add this Posting to the list of Posting that contains this token
+			int idx = map.get(token).indexOf(new Posting(token, PostingNumber,-1));
 			if (idx >-1) {
 				map.get(token).get(idx).add(1);
 				return false;
 			}
 			else {
-				map.get(token).add(new Document(token, documentNumber,1)); // if this is a new document/token pair
+				map.get(token).add(new Posting(token, PostingNumber,1)); // if this is a new Posting/token pair
 				return true;
 			}
 		}
 		else {
-			// Not already present, create a new list of document name
-			ArrayList<Document> documentList = new ArrayList<Document>();
-			// Add this document to the list
-			documentList.add(new Document(token, documentNumber,1));
-			// Add this list of document to the index
-			map.put(token, documentList);
+			// Not already present, create a new list of Posting name
+			ArrayList<Posting> PostingList = new ArrayList<Posting>();
+			// Add this Posting to the list
+			PostingList.add(new Posting(token, PostingNumber,1));
+			// Add this list of Posting to the index
+			map.put(token, PostingList);
 			return true;
 		}
 	}
@@ -99,13 +99,13 @@ public class DefaultInvertedIndex implements IInvertedIndex {
 	}
 
 	@Override
-	public AbstractSet<Document> getSet(String token) {
-		List<Document> c = map.get(token);
+	public AbstractSet<Posting> getSet(String token) {
+		List<Posting> c = map.get(token);
 		if (c == null)
-			return new HashSet<Document>();
+			return new HashSet<Posting>();
 
-		HashSet<Document> r = new HashSet<Document>(map.get(token).size());
-		for (Document n : map.get(token))
+		HashSet<Posting> r = new HashSet<Posting>(map.get(token).size());
+		for (Posting n : map.get(token))
 			r.add(n);
 		return r;
 	}
@@ -117,20 +117,20 @@ public class DefaultInvertedIndex implements IInvertedIndex {
 	/**
 	 * Validate the index to make sure it holds the following properties for every term
 	 * - The list of PostingList is not null
-	 * - The list of PostingList contains only unique document id
+	 * - The list of PostingList contains only unique Posting id
 	 * @return result of the validation
 	 */
 	public boolean validate() {
 		HashSet<Integer> docSet = new HashSet<Integer>();
 		for (String term : map.keySet()) {
-			List<Document> pl = map.get(term);
+			List<Posting> pl = map.get(term);
 			if (pl == null) return false;
 			docSet.clear();
-			for (Document p : pl) {
-				if (docSet.contains(p.getDocumentId()))
+			for (Posting p : pl) {
+				if (docSet.contains(p.getPostingId()))
 					return false;
 				else
-					docSet.add(p.getDocumentId());
+					docSet.add(p.getPostingId());
 			}
 		}
 		return true;
@@ -153,7 +153,7 @@ public class DefaultInvertedIndex implements IInvertedIndex {
 			for (String token : this) {
 				// Write to the index file
 				sb.append(token + " ");
-				for (Document i : this.getSet(token))
+				for (Posting i : this.getSet(token))
 					sb.append(i.toString() + " ");
 				sb.append("\n");
 			}
@@ -168,7 +168,7 @@ public class DefaultInvertedIndex implements IInvertedIndex {
 	
 	public static DefaultInvertedIndex readFromFile(String path) {
 		try {
-			TreeMap<String, ArrayList<Document>> newMap = new TreeMap<String, ArrayList<Document>>();
+			TreeMap<String, ArrayList<Posting>> newMap = new TreeMap<String, ArrayList<Posting>>();
 
 			File inputFile = new File(Constants.basepath + "/" + path);
 			BenchmarkRow timer = new BenchmarkRow(null);
@@ -183,7 +183,7 @@ public class DefaultInvertedIndex implements IInvertedIndex {
 			while (line != null) {
 				StringTokenizer st = new StringTokenizer(line);
 				boolean firstToken = true;
-				Document[] postingList = new Document[st.countTokens()-1];
+				Posting[] postingList = new Posting[st.countTokens()-1];
 				int i=0;
 				while (st.hasMoreTokens()) {
 					if (firstToken==true) {
@@ -191,11 +191,11 @@ public class DefaultInvertedIndex implements IInvertedIndex {
 						term = st.nextToken();
 					}
 					else {
-						postingList[i++] = Document.fromString(term, st.nextToken());
+						postingList[i++] = Posting.fromString(term, st.nextToken());
 					}
 				}
 				
-				newMap.put(term, new ArrayList<Document>(Arrays.asList((postingList))));
+				newMap.put(term, new ArrayList<Posting>(Arrays.asList((postingList))));
 				line = in.readLine();
 			}
 
@@ -215,35 +215,35 @@ public class DefaultInvertedIndex implements IInvertedIndex {
 	/**
 	 * Get all possible postings
 	 */
-	public HashSet<Document> getAll() {
-		HashSet<Document> all = new HashSet<Document>();
+	public HashSet<Posting> getAll() {
+		HashSet<Posting> all = new HashSet<Posting>();
 		for (String s : map.keySet()) {
 			all.addAll(map.get(s));
 		}
 		return all;
 	}
 	
-	public TreeMap<GenericPosting, LinkedList<Document>> getDocBI() {
-		TreeMap<GenericPosting, LinkedList<Document>> answer = new TreeMap<GenericPosting, LinkedList<Document>>();
+	public TreeMap<GenericDocument, LinkedList<Posting>> getDocBI() {
+		TreeMap<GenericDocument, LinkedList<Posting>> answer = new TreeMap<GenericDocument, LinkedList<Posting>>();
 		
-		BenchmarkRow benR = new BenchmarkRow("Document based index");
+		BenchmarkRow benR = new BenchmarkRow("Posting based index");
 		benR.start();
-		for (Collection<Document> col : map.values()) {
-			for (Document document : col) {
-				GenericPosting doc = CollectionFactory.getCorpus().findArticle(document.getDocumentId());
+		for (Collection<Posting> col : map.values()) {
+			for (Posting Posting : col) {
+				GenericDocument doc = CollectionFactory.getCorpus().findArticle(Posting.getPostingId());
 				if (doc!=null){
 					if (answer.containsKey(doc))
-						answer.get(doc).add(document);
+						answer.get(doc).add(Posting);
 					else {
-						LinkedList<Document> ll = new LinkedList<Document>();
-						ll.add(document);
+						LinkedList<Posting> ll = new LinkedList<Posting>();
+						ll.add(Posting);
 						answer.put(doc, ll);
 					}
 				}
 			}
 		}
 		benR.stop();
-		System.out.println("Document based index took " + benR.getDuration() + " to run");
+		System.out.println("Posting based index took " + benR.getDuration() + " to run");
 		return answer;
 	}
 }

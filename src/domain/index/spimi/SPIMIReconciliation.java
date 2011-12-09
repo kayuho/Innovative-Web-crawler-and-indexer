@@ -9,10 +9,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.LineNumberReader;
 import java.util.HashSet;
-
 import technical.helpers.Constants;
-
-import domain.Document;
+import domain.index.Posting;
 
 
 
@@ -36,8 +34,8 @@ public class SPIMIReconciliation {
 			String currentToken = findFirstToken(buffReadArr, lastLineRead);
 			out.write(currentToken);
 			while (currentToken != null) {				
-				HashSet<Document> documents = obtainPostingsForTokenInReaderArray(currentToken, buffReadArr, lastLineRead);
-				for (Document i : documents) {
+				HashSet<Posting> postings = obtainPostingsForTokenInReaderArray(currentToken, buffReadArr, lastLineRead);
+				for (Posting i : postings) {
 					out.write(" " + i.toString());					
 				}
 				currentToken = findFirstToken(buffReadArr, lastLineRead);
@@ -60,8 +58,8 @@ public class SPIMIReconciliation {
 
 	}
 
-	private static HashSet<Document> obtainPostingsForTokenInReaderArray(String currentToken, LineNumberReader[] buffReadArr, String[] lastLineRead) throws IOException {
-		HashSet<Document> result = new HashSet<Document>();
+	private static HashSet<Posting> obtainPostingsForTokenInReaderArray(String currentToken, LineNumberReader[] buffReadArr, String[] lastLineRead) throws IOException {
+		HashSet<Posting> result = new HashSet<Posting>();
 		for (int i=0; i<buffReadArr.length; i++ ) {
 			String line = lastLineRead[i];
 			if (line == null)
@@ -78,9 +76,9 @@ public class SPIMIReconciliation {
 						skip=false;
 						continue;
 					}
-					Document p = Document.fromString(token, s);
+					Posting p = Posting.fromString(token, s);
 					if (result.add(p) == false)
-						for (Document p2 : result)
+						for (Posting p2 : result)
 						{
 							if (p.equals(p2))
 								p2.add(p.getOccurence());

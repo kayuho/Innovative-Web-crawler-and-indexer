@@ -11,7 +11,7 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-import domain.Document;
+import domain.index.Posting;
 
 public class SerializingInvertedIndex implements IInvertedIndex{
 
@@ -142,7 +142,7 @@ public class SerializingInvertedIndex implements IInvertedIndex{
 	}
 
 	@Override
-	public AbstractSet<Document> getSet(String token) {
+	public AbstractSet<Posting> getSet(String token) {
 		// TODO Auto-generated method stub
 		return null;
 	}
@@ -160,7 +160,7 @@ public class SerializingInvertedIndex implements IInvertedIndex{
 	}
 
 	@Override
-	public HashSet<Document> getAll() {
+	public HashSet<Posting> getAll() {
 		// TODO Auto-generated method stub
 		return null;
 	}

@@ -5,6 +5,8 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
+import domain.collection.documents.ReutersDocument;
+
 import technical.helpers.HtmlEntities;
 
 public class XMlHandlerFindById extends DefaultHandler {

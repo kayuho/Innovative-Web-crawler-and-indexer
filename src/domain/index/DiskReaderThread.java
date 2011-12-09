@@ -14,7 +14,7 @@ import org.xml.sax.helpers.DefaultHandler;
 
 import technical.helpers.Constants;
 
-import domain.index.reuters.ReutersDocument;
+import domain.collection.documents.ReutersDocument;
 import domain.index.reuters.XMLHandlerListAll;
 import domain.index.reuters.XMlHandlerFindById;
 

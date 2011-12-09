@@ -11,10 +11,10 @@ import java.util.TreeSet;
 import technical.helpers.BenchmarkRow;
 import technical.helpers.Property;
 
-import domain.GenericPosting;
-import domain.Document;
 import domain.collection.CollectionFactory;
+import domain.collection.documents.GenericDocument;
 import domain.index.IndexerThread;
+import domain.index.Posting;
 import domain.index.spimi.DefaultInvertedIndex;
 import domain.search.booleantree.InfixToPostfix;
 import domain.search.booleantree.InvalidQueryException;
@@ -25,7 +25,7 @@ public class QueryProcessor {
 
 	private static DefaultInvertedIndex index = DefaultInvertedIndex.readFromFile("index.txt");
 
-	private static Set<Document> matchingDocId;
+	private static Set<Posting> matchingDocId;
 	private static Iterator<Result> matchedIterator;
 	private static BenchmarkRow matchingTime;
 	private static BenchmarkRow pullingArticletime = new BenchmarkRow(null);
@@ -48,18 +48,18 @@ public class QueryProcessor {
 		return true;
 	}
 
-	private static Collection<Result> generateRankResult(String queryPositiveTerms, Set<Document> matchingDocument) {
+	private static Collection<Result> generateRankResult(String queryPositiveTerms, Set<Posting> matchingDocument) {
 		if (Property.getBoolean("enable_ranking") == false) {
 			HashSet<Result> resultSet = new HashSet<Result>();
-			for (Document p : matchingDocument) 
-				resultSet.add(new Result(CollectionFactory.getCorpus().findArticle(p.getDocumentId()), 1));
+			for (Posting p : matchingDocument) 
+				resultSet.add(new Result(CollectionFactory.getCorpus().findArticle(p.getPostingId()), 1));
 			return resultSet;
 		}
 		else {
 			TreeSet<Result> results = new TreeSet<Result>();
 			// Looking to rank each document in regards to query positive terms.
-			for (Document p : matchingDocument) {
-				Result result = makeRank(CollectionFactory.getCorpus().findArticle(p.getDocumentId()),queryPositiveTerms);
+			for (Posting p : matchingDocument) {
+				Result result = makeRank(CollectionFactory.getCorpus().findArticle(p.getPostingId()),queryPositiveTerms);
 				results.add(result);
 
 			}
@@ -69,7 +69,7 @@ public class QueryProcessor {
 	}
 
 	//This methods applies Okapi BM25
-	private static Result makeRank(GenericPosting abstractDocument, String queryPositiveTerms) {
+	private static Result makeRank(GenericDocument abstractDocument, String queryPositiveTerms) {
 		double N = CollectionFactory.getCorpus().size();	//corpus size
 		double k1 = 1.5;
 		double b = 0.75;
@@ -80,8 +80,8 @@ public class QueryProcessor {
 			double idfQI = Math.log((N - numberOfDocumentContainingT + 0.5)/(numberOfDocumentContainingT+0.5));
 			double termFrequencyInDocument = 0;
 			// Looking for termFrequencyInDocument
-			for (Document p : index.getSet(term))
-				if (p.getDocumentId() == abstractDocument.getId())
+			for (Posting p : index.getSet(term))
+				if (p.getPostingId() == abstractDocument.getId())
 					termFrequencyInDocument = p.getOccurence();
 			
 			double top = termFrequencyInDocument*(k1+1);
@@ -158,14 +158,14 @@ public class QueryProcessor {
 		}
 		return compressedQuery;
 	}
-	private static Set<Document> findMatchingPostingId(String query) throws InvalidQueryException {
+	private static Set<Posting> findMatchingPostingId(String query) throws InvalidQueryException {
 		matchingTime = new BenchmarkRow(null);
 		matchingTime.start();
 		String compressedQuery = compressQuery(query);
 		System.out.println(compressedQuery);
 		String postfixRepresentation = InfixToPostfix.doTrans(compressedQuery);
 		QueryTree qt = QueryTreeBuilder.getTree(postfixRepresentation);
-		Set<Document> resultSet = qt.getResult(index);
+		Set<Posting> resultSet = qt.getResult(index);
 		queryPositiveTerms = qt.getAllMatchedTerms();
 		matchingTime.stop();
 		return resultSet;

@@ -3,9 +3,7 @@ package technical;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.LinkedList;
-
-
-import domain.Document;
+import domain.index.Posting;
 
 
 /**
@@ -52,7 +50,7 @@ public class Server {
 		return machine.getBlockWithID(blockID);
 	}
 
-	public boolean addBlock(HashMap<String, LinkedList<Document>> dictionary) throws IOException, ClassNotFoundException {
+	public boolean addBlock(HashMap<String, LinkedList<Posting>> dictionary) throws IOException, ClassNotFoundException {
 		if(machines.isEmpty()) machines.put(new Integer(1), new Machine());
 			return machines.get(1).addBlock(dictionary);
 	}

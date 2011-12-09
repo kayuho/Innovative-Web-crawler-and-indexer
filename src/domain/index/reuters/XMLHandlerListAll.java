@@ -7,6 +7,7 @@ import org.xml.sax.helpers.DefaultHandler;
 
 import technical.helpers.HtmlEntities;
 
+import domain.collection.documents.ReutersDocument;
 import domain.index.IndexerThread;
 
 public class XMLHandlerListAll extends DefaultHandler {

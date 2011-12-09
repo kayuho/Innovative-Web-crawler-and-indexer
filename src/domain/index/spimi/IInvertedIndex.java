@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-import domain.Document;
+import domain.index.Posting;
 
 public interface IInvertedIndex extends Iterable<String> {
 
@@ -16,12 +16,12 @@ public interface IInvertedIndex extends Iterable<String> {
 
 	public abstract int size();
 
-	public abstract AbstractSet<Document> getSet(String token);
+	public abstract AbstractSet<Posting> getSet(String token);
 
 	public abstract Iterator<String> iterator();
 
 	public abstract void clear();
 	
-	public abstract HashSet<Document> getAll();
+	public abstract HashSet<Posting> getAll();
 
 }

@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1" import="domain.GenericPosting,java.util.List,domain.search.QueryProcessor,technical.helpers.BenchmarkRow"%><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+    pageEncoding="ISO-8859-1" import="domain.collection.documents.domain.collection.documents.GenericDocument,java.util.List,domain.search.QueryProcessor,technical.helpers.BenchmarkRow"%><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 <%
 	BenchmarkRow timer = new BenchmarkRow(null);
@@ -16,7 +16,7 @@ I found <%=request.getAttribute("result-count")%> results in <%=request.getAttri
 
 	<%
 		while(QueryProcessor.hasNext()) { 
-		GenericPosting a = QueryProcessor.next().getResult(); if (a==null) continue;
+			GenericDocument a = QueryProcessor.next().getResult(); if (a==null) continue;
 	%>
 		<h3><a href="document/view/?d=<%=a.getId()%>&q=<%= request.getAttribute("query") %>"><%= a.getTitle() %></a></h3>
 	<% 

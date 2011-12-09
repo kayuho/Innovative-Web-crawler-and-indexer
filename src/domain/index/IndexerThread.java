@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 import technical.helpers.Property;
 import technical.helpers.Utils;
 
-import domain.GenericPosting;
+import domain.collection.documents.GenericDocument;
 import domain.collection.CollectionFactory;
 import domain.index.compression.Stemmer;
 import domain.index.compression.StopwordRemover;
@@ -27,7 +27,7 @@ public class IndexerThread extends Thread {
 		//create an instance of the stemmer wrapper for the PorterStemmer.
 		private Stemmer stemmer = new Stemmer();
 		private SPIMIInvertedIndex index;
-		private static LinkedBlockingQueue<GenericPosting> documentToProcess = new LinkedBlockingQueue<GenericPosting>(500);
+		private static LinkedBlockingQueue<GenericDocument> documentToProcess = new LinkedBlockingQueue<GenericDocument>(500);
 		//When set to true, the thread will sleep waiting for new document to index
 		private static boolean noMoreDocumentsWillBeAdded = false;
 
@@ -43,7 +43,7 @@ public class IndexerThread extends Thread {
 			index = new SPIMIInvertedIndex();
 
 			try {
-				GenericPosting d = documentToProcess.take();
+				GenericDocument d = documentToProcess.take();
 				while (d != null) {
 					processDocument(d);
 					CollectionFactory.getCorpus().addArticle(d);
@@ -66,7 +66,7 @@ public class IndexerThread extends Thread {
 			}
 	}
 
-	private void processDocument(GenericPosting d) {
+	private void processDocument(GenericDocument d) {
 		//Remove all &entities;
 		String text = Utils.removeEntities(d.getText());
 		//Tokenize
@@ -118,7 +118,7 @@ public class IndexerThread extends Thread {
 		}
 	}
 
-	public static void addDocument(GenericPosting d) {
+	public static void addDocument(GenericDocument d) {
 		if (noMoreDocumentsWillBeAdded == true)
 			throw new RuntimeException("You cannot add document is this indexer thread is not expecting them");
 		try { 

@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1" import="domain.GenericPosting,java.util.List,domain.search.QueryProcessor,technical.helpers.BenchmarkRow"%>
+    pageEncoding="ISO-8859-1" import="domain.collection.documents.domain.collection.documents.GenericDocument,java.util.List,domain.search.QueryProcessor,technical.helpers.BenchmarkRow"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head> <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>

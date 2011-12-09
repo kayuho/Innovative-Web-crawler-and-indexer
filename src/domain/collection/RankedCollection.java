@@ -10,8 +10,8 @@ import technical.helpers.BenchmarkRow;
 import technical.helpers.Pair;
 import technical.helpers.Property;
 
-import domain.GenericPosting;
-import domain.Document;
+import domain.collection.documents.GenericDocument;
+import domain.index.Posting;
 import domain.index.spimi.DefaultInvertedIndex;
 import domain.index.weight.ThreadTf_Idf;
 
@@ -36,12 +36,12 @@ public class RankedCollection extends Collection {
 		
 		index = DefaultInvertedIndex.readFromFile("index.txt");
 		if (!index.validate()) throw new RuntimeException("The index is not valid");
-		TreeMap<GenericPosting, LinkedList<Document>> data = index.getDocBI();
+		TreeMap<GenericDocument, LinkedList<Posting>> data = index.getDocBI();
 		System.out.println("Tf-Idf is being calculated");
-		LinkedBlockingQueue<Pair<GenericPosting, LinkedList<Document>>> workToDo = new LinkedBlockingQueue<Pair<GenericPosting, LinkedList<Document>>>();
+		LinkedBlockingQueue<Pair<GenericDocument, LinkedList<Posting>>> workToDo = new LinkedBlockingQueue<Pair<GenericDocument, LinkedList<Posting>>>();
 		
-		for (GenericPosting gd : data.keySet()) {
-			Pair<GenericPosting, LinkedList<Document>> pair = new Pair<GenericPosting, LinkedList<Document>>(gd, data.get(gd));
+		for (GenericDocument gd : data.keySet()) {
+			Pair<GenericDocument, LinkedList<Posting>> pair = new Pair<GenericDocument, LinkedList<Posting>>(gd, data.get(gd));
 			workToDo.add(pair);
 		}
 		

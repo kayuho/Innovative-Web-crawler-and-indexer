@@ -8,7 +8,7 @@ import java.util.Set;
 
 import technical.helpers.Property;
 
-import domain.Document;
+import domain.index.Posting;
 
 public class SPIMIInvertedIndex implements IInvertedIndex {
 
@@ -64,7 +64,7 @@ public class SPIMIInvertedIndex implements IInvertedIndex {
 	}
 
 	@Override
-	public AbstractSet<Document> getSet(String token) {
+	public AbstractSet<Posting> getSet(String token) {
 		return postingList.getSet(token);
 	}
 
@@ -82,7 +82,7 @@ public class SPIMIInvertedIndex implements IInvertedIndex {
 	}
 	
 	@Override
-	public HashSet<Document> getAll() {
+	public HashSet<Posting> getAll() {
 		return postingList.getAll();
 	}
 
